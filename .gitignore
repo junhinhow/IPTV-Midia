@@ -1,0 +1,4 @@
+# Ignorar arquivos acima de 100MB com extensões específicas
+*.ext [size>=100MB]
+*.exe [size>=100MB]
+*.mp4 [size>=100MB]
