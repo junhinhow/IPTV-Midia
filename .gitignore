@@ -2,3 +2,4 @@
 *.ext [size>=100MB]
 *.exe [size>=100MB]
 *.mp4 [size>=100MB]
+*.mov [size>=100MB]
