@@ -1,0 +1,2501 @@
+{
+  "id": "cll2m29fc00bwlb0f8rxn8rky",
+  "version": "3",
+  "createdAt": "hlox0fa13olceqpxwpmnfyi1",
+  "groups": [
+    {
+            "id": "r3kpyat62o5bn0r9q3i39f0k",
+            "title": "Start",
+            "blocks": [
+              {
+                "id": "nmizy69o84xw69eatgnplme2",
+                "type": "start",
+                "label": "Start",
+                "groupId": "r3kpyat62o5bn0r9q3i39f0k",
+                "outgoingEdgeId": "gq7kagfggam8xlm3yfr5nxh7"
+              }
+            ],
+            "graphCoordinates": {
+              "x": -2172.72,
+              "y": 20.35
+            }
+          },
+          {
+            "id": "n3g5w6uabdynk5w03wh7a0uy",
+            "title": "",
+            "blocks": [
+              {
+                "id": "cvvv0k8dkglxt4u3dw1fxdgf",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "[VOCÊ"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "FOI"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "SELECIONADA]"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "ESSA CONSULTA ASTROLÓGICA É",
+                          "underline": true
+                        },
+                        {
+                          "text": " ",
+                          "underline": true
+                        },
+                        {
+                          "bold": true,
+                          "text": "GRATUITA",
+                          "underline": true
+                        },
+                        {
+                          "bold": true,
+                          "text": "!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "n3g5w6uabdynk5w03wh7a0uy"
+              },
+              {
+                "id": "zdh6ehg8nbfm3na7qpj595o7",
+                "type": "Wait",
+                "groupId": "n3g5w6uabdynk5w03wh7a0uy",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "k8elr82a6tcadaqyegxyrwxc",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Olá minha cara, eu me chamo "
+                        },
+                        {
+                          "bold": true,
+                          "text": "Luna "
+                        },
+                        {
+                          "text": "🌙✨"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "n3g5w6uabdynk5w03wh7a0uy"
+              },
+              {
+                "id": "hfk0zt660q0huceto69yb3yt",
+                "type": "Wait",
+                "groupId": "n3g5w6uabdynk5w03wh7a0uy",
+                "options": {
+                  "secondsToWaitFor": "5"
+                }
+              },
+              {
+                "id": "nvciqry5m0boayjnrgxin07h",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/jbzqhf8x0ahkeojqxrbwzi5t?v=1689448720580"
+                },
+                "groupId": "n3g5w6uabdynk5w03wh7a0uy"
+              },
+              {
+                "id": "bc5qqku2192c7tld52cspa5y",
+                "type": "Wait",
+                "groupId": "n3g5w6uabdynk5w03wh7a0uy",
+                "options": {
+                  "secondsToWaitFor": "17"
+                }
+              },
+              {
+                "id": "wvz1m2xrr2rffrtxvb7t5j56",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "👇"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "n3g5w6uabdynk5w03wh7a0uy"
+              },
+              {
+                "id": "tp9sp6r569t1xnona24ladsx",
+                "type": "Wait",
+                "groupId": "n3g5w6uabdynk5w03wh7a0uy",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "lis9kerca1trhg0exke5zikk",
+                "type": "image",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/g91i1t2tlt9qkl5dvxggin3o?v=1689894566511"
+                },
+                "groupId": "n3g5w6uabdynk5w03wh7a0uy"
+              },
+              {
+                "id": "r53gx93ibfm8ou5t2klwzn3t",
+                "type": "Wait",
+                "groupId": "n3g5w6uabdynk5w03wh7a0uy",
+                "options": {
+                  "secondsToWaitFor": "4"
+                }
+              },
+              {
+                "id": "niahy9k9se29gbc8ke2n8tx9",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Você gostaria de "
+                        },
+                        {
+                          "bold": true,
+                          "text": "descobrir"
+                        },
+                        {
+                          "text": " o rosto da sua verdadeira "
+                        },
+                        {
+                          "bold": true,
+                          "text": "alma gêmea? "
+                        },
+                        {
+                          "text": "💞"
+                        },
+                        {
+                          "bold": true,
+                          "text": " "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "n3g5w6uabdynk5w03wh7a0uy"
+              },
+              {
+                "id": "p2i66qwpddurss2j5s046gxd",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "blo4688li2ckll8q6rpx4oz7",
+                    "type": 0,
+                    "blockId": "lm9dgkb4dygaq3pcs1zzt7hd",
+                    "content": "Sim, Luna!",
+                    "outgoingEdgeId": "ktk6yj6vub49p39z6yxygjs8"
+                  }
+                ],
+                "groupId": "n3g5w6uabdynk5w03wh7a0uy",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                }
+              }
+            ],
+            "graphCoordinates": {
+              "x": -1790.56,
+              "y": 28.55
+            }
+          },
+          {
+            "id": "kzfmprkankxti6nvnjs0fede",
+            "title": "",
+            "blocks": [
+              {
+                "id": "zyhqh7f0pdz8168pwxjudi8s",
+                "type": "Wait",
+                "groupId": "kzfmprkankxti6nvnjs0fede",
+                "options": {
+                  "secondsToWaitFor": "5"
+                }
+              },
+              {
+                "id": "tecq2ytc4pmpripaljcpdwpv",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Chegou aqui a foto"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "kzfmprkankxti6nvnjs0fede"
+              },
+              {
+                "id": "tjmmlpaagx97r4fwa3tyfrmu",
+                "type": "Wait",
+                "groupId": "kzfmprkankxti6nvnjs0fede",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "i4eiyjm0hwvbi290293872eu",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Ficou perfeita! "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "kzfmprkankxti6nvnjs0fede"
+              },
+              {
+                "id": "fag7o2rmbwach98kka7ljj0t",
+                "type": "Wait",
+                "groupId": "kzfmprkankxti6nvnjs0fede",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "o6z1kfll9ftu6qfr7lfge35a",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Agora me conte {{NOME}}, como anda sua "
+                        },
+                        {
+                          "bold": true,
+                          "text": "vida amorosa atualmente?"
+                        },
+                        {
+                          "text": " "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "kzfmprkankxti6nvnjs0fede"
+              },
+              {
+                "id": "pnjvnx859toh352g5ukc0tlz",
+                "type": "text input",
+                "groupId": "kzfmprkankxti6nvnjs0fede",
+                "options": {
+                  "isLong": false,
+                  "labels": {
+                    "button": "Enviar",
+                    "placeholder": "Digite aqui..."
+                  }
+                }
+              },
+              {
+                "id": "fqfo807l0bz4de0tjctlygmk",
+                "type": "Wait",
+                "groupId": "kzfmprkankxti6nvnjs0fede",
+                "options": {
+                  "secondsToWaitFor": "6"
+                }
+              },
+              {
+                "id": "r2amnmg34s2f0f9lmvvtrmfi",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Entendo"
+                        },
+                        {
+                          "text": " perfeitamente viu..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "kzfmprkankxti6nvnjs0fede"
+              },
+              {
+                "id": "antp7xdw9w3ap0gvf8kxsol3",
+                "type": "Wait",
+                "groupId": "kzfmprkankxti6nvnjs0fede",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "n3dxrk0l5arf6m6o9w9jonsn",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Encontrar a pessoa "
+                        },
+                        {
+                          "bold": true,
+                          "text": "certa "
+                        },
+                        {
+                          "text": "pra se relacionar pode ser uma "
+                        },
+                        {
+                          "bold": true,
+                          "text": "jornada desafiadora..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "kzfmprkankxti6nvnjs0fede"
+              },
+              {
+                "id": "q1j096ez33d77xb45n7eqjd6",
+                "type": "Wait",
+                "groupId": "kzfmprkankxti6nvnjs0fede",
+                "options": {
+                  "secondsToWaitFor": "10"
+                }
+              },
+              {
+                "id": "uhoi9takshifhqljlz74gfny",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/b67yqw5t665wip4u448klheu?v=1689371947327"
+                },
+                "groupId": "kzfmprkankxti6nvnjs0fede"
+              },
+              {
+                "id": "lb9vi1k9t69p093an0j45pa8",
+                "type": "Wait",
+                "groupId": "kzfmprkankxti6nvnjs0fede",
+                "options": {
+                  "secondsToWaitFor": "18"
+                }
+              },
+              {
+                "id": "l8s0m5enqr3ernfq8xioylsj",
+                "type": "image",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/fbtbbjrt1a8rjl9a4wo7b2o2?v=1689373219484"
+                },
+                "groupId": "kzfmprkankxti6nvnjs0fede"
+              },
+              {
+                "id": "b6vj0oqs85zpu0gnww9p4d5g",
+                "type": "Wait",
+                "groupId": "kzfmprkankxti6nvnjs0fede",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "mfw5m5920s2al1my2t2de9kq",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Hoje eles estão morando juntos e até adotaram um filhote 🥰"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "kzfmprkankxti6nvnjs0fede"
+              },
+              {
+                "id": "u90k9e5u5csqeooe67cbjnhy",
+                "type": "Wait",
+                "groupId": "kzfmprkankxti6nvnjs0fede",
+                "options": {
+                  "secondsToWaitFor": "8"
+                }
+              },
+              {
+                "id": "w25y8poao9p8w1nlxtleu2pn",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/pt25tv657uxw5omj9h3gm0ia?v=1689371995029"
+                },
+                "groupId": "kzfmprkankxti6nvnjs0fede"
+              },
+              {
+                "id": "ebavuy5auzoxd9s7hssaqntq",
+                "type": "Wait",
+                "groupId": "kzfmprkankxti6nvnjs0fede",
+                "options": {
+                  "secondsToWaitFor": "8"
+                }
+              },
+              {
+                "id": "sdfv5426rp6spam8ghtczoqo",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Veja só… 👇"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "kzfmprkankxti6nvnjs0fede"
+              },
+              {
+                "id": "qptf70t6g580cj4k4gstc73d",
+                "type": "embed",
+                "content": {
+                  "url": "https://scripts.converteai.net/763786a3-7c36-4dbe-959f-ce911d5a49ee/players/64b1cbc64d8d330009adf2e3/embed.html",
+                  "height": 190
+                },
+                "groupId": "kzfmprkankxti6nvnjs0fede"
+              },
+              {
+                "id": "j39hoeb7xgdwrxsa0ilsoj21",
+                "type": "Wait",
+                "groupId": "kzfmprkankxti6nvnjs0fede",
+                "options": {
+                  "secondsToWaitFor": "45"
+                },
+                "outgoingEdgeId": "wfnx05e3w2w40hlq8fz00ggw"
+              }
+            ],
+            "graphCoordinates": {
+              "x": 118.85,
+              "y": 44.65
+            }
+          },
+          {
+            "id": "gr98xgzyzpu96sl9z6pf0fg8",
+            "title": "",
+            "blocks": [
+              {
+                "id": "pw7rses5cre2gr0d141d5t1a",
+                "type": "Wait",
+                "groupId": "gr98xgzyzpu96sl9z6pf0fg8",
+                "options": {
+                  "secondsToWaitFor": "6"
+                }
+              },
+              {
+                "id": "fp29d256w69owbqj2izy9m7m",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/d5j0hyi5trlt2iq2d121lx8a?v=1689372262031"
+                },
+                "groupId": "gr98xgzyzpu96sl9z6pf0fg8"
+              },
+              {
+                "id": "cycpa1u1af82kq5axhsfshsh",
+                "type": "Wait",
+                "groupId": "gr98xgzyzpu96sl9z6pf0fg8",
+                "options": {
+                  "secondsToWaitFor": "15"
+                }
+              },
+              {
+                "id": "est5au972nz3bpupczciuahg",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/mcongxrwnqq8jn4t3ffkrxnh?v=1689372315061"
+                },
+                "groupId": "gr98xgzyzpu96sl9z6pf0fg8",
+                "outgoingEdgeId": "q5ni653h5gdlsf6pb0xigq6l"
+              }
+            ],
+            "graphCoordinates": {
+              "x": 915.57,
+              "y": 42.2
+            }
+          },
+          {
+            "id": "oqf6frq3x3ybgephw57spqm4",
+            "title": "",
+            "blocks": [
+              {
+                "id": "ozucsabpgu8omye6m29px6p8",
+                "type": "Wait",
+                "groupId": "oqf6frq3x3ybgephw57spqm4",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "axv3025sietu0ozd70zmgqej",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Maravilha!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "oqf6frq3x3ybgephw57spqm4"
+              },
+              {
+                "id": "q2xtdz97oiev3zn756rpjfxe",
+                "type": "Wait",
+                "groupId": "oqf6frq3x3ybgephw57spqm4",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "xqa030vgfqwc1t5u6ddmtcy9",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Qual é o seu "
+                        },
+                        {
+                          "bold": true,
+                          "text": "nome?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "oqf6frq3x3ybgephw57spqm4"
+              },
+              {
+                "id": "zyubod8xdzc33iwiqpicesbo",
+                "type": "text input",
+                "groupId": "oqf6frq3x3ybgephw57spqm4",
+                "options": {
+                  "isLong": false,
+                  "labels": {
+                    "button": "Enviar",
+                    "placeholder": "Digite aqui..."
+                  },
+                  "variableId": "vprp91gkcj6ooz2wteh9qrvjn"
+                }
+              },
+              {
+                "id": "ulqki7jqv8dqhu6h2rnfs1s4",
+                "type": "Wait",
+                "groupId": "oqf6frq3x3ybgephw57spqm4",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "whl0jxfqjzg4q4np7paw48z1",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Muito prazer {{NOME}}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "oqf6frq3x3ybgephw57spqm4"
+              },
+              {
+                "id": "x53w20p56cdiqdw0qe0yqydc",
+                "type": "Wait",
+                "groupId": "oqf6frq3x3ybgephw57spqm4",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "xer2kzs2a7fqidqfu63s7yiy",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Vou te explicar "
+                        },
+                        {
+                          "bold": true,
+                          "text": "como"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "funciona"
+                        },
+                        {
+                          "text": "..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "oqf6frq3x3ybgephw57spqm4"
+              },
+              {
+                "id": "bckkoufjgceqtkx5xsbouupi",
+                "type": "Wait",
+                "groupId": "oqf6frq3x3ybgephw57spqm4",
+                "options": {
+                  "secondsToWaitFor": "4"
+                }
+              },
+              {
+                "id": "wihhgtshozumkgkuc8fg3kzo",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/vcnn5alg1mn3r1q8t1b39v6c?v=1689371531760"
+                },
+                "groupId": "oqf6frq3x3ybgephw57spqm4"
+              },
+              {
+                "id": "st9wgpy2f31nwzlxerirk4gb",
+                "type": "Wait",
+                "groupId": "oqf6frq3x3ybgephw57spqm4",
+                "options": {
+                  "secondsToWaitFor": "7"
+                }
+              },
+              {
+                "id": "evq6txhsxfbvrfv8cp5ul2k6",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/m435v6oefxku0cm0oyzcg2mb?v=1689371603595"
+                },
+                "groupId": "oqf6frq3x3ybgephw57spqm4"
+              },
+              {
+                "id": "nj716c5a8n7lchwbf1pnatcj",
+                "type": "Wait",
+                "groupId": "oqf6frq3x3ybgephw57spqm4",
+                "options": {
+                  "secondsToWaitFor": "10"
+                }
+              },
+              {
+                "id": "jpit2d0e6m2hk96rk7r38vho",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Podemos continuar? 😌"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "oqf6frq3x3ybgephw57spqm4"
+              },
+              {
+                "id": "v0f3h0iu1g2764rjvw8p3f0n",
+                "type": "text input",
+                "groupId": "oqf6frq3x3ybgephw57spqm4",
+                "options": {
+                  "isLong": false,
+                  "labels": {
+                    "button": "Enviar",
+                    "placeholder": "Digite aqui..."
+                  }
+                },
+                "outgoingEdgeId": "kanq5xkxwmka6h0zlwo33dpq"
+              }
+            ],
+            "graphCoordinates": {
+              "x": -1407.85,
+              "y": 35.41
+            }
+          },
+          {
+            "id": "mi7m4msjb6hw21yzbt381d5w",
+            "title": "",
+            "blocks": [
+              {
+                "id": "m9ifzqhd721kgchg554hb7e7",
+                "type": "Wait",
+                "groupId": "mi7m4msjb6hw21yzbt381d5w",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "oy7mmztt1no5e492xw74jp99",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Muito bem..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "mi7m4msjb6hw21yzbt381d5w"
+              },
+              {
+                "id": "bgqb0vuep83ibavwzc48sah4",
+                "type": "Wait",
+                "groupId": "mi7m4msjb6hw21yzbt381d5w",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "v0owb85tx9x83v9pdao1clwf",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Primeiro, escolhe"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "seu"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "signo"
+                        },
+                        {
+                          "text": " clicando em uma das "
+                        },
+                        {
+                          "bold": true,
+                          "text": "imagens"
+                        },
+                        {
+                          "text": " abaixo 👇"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "mi7m4msjb6hw21yzbt381d5w"
+              },
+              {
+                "id": "igmp0r8mbisd6v2h89kfrk8l",
+                "type": "Wait",
+                "groupId": "mi7m4msjb6hw21yzbt381d5w",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "uinct2nxufqquug8tp6bkqw9",
+                "type": "picture choice input",
+                "items": [
+                  {
+                    "id": "fs21dyzip8mhz65bttntzrju",
+                    "type": 3,
+                    "title": "ÁRIES",
+                    "blockId": "wuf1ejam45e0zu9mid36x4x0",
+                    "pictureSrc": "https://s3.fr-par.scw.cloud/typebot/public/typebots/p6z8sw64v7ai0k1epulm9t9o/blocks/wuf1ejam45e0zu9mid36x4x0/items/fs21dyzip8mhz65bttntzrju?v=1689360193592",
+                    "description": "21 Mar - 20 Abr",
+                    "outgoingEdgeId": "dboh7m90355yqy6f27tz5y4h"
+                  },
+                  {
+                    "id": "stq0d7h1ysfjmne6gyepy9ju",
+                    "type": 3,
+                    "title": "TOURO",
+                    "blockId": "wuf1ejam45e0zu9mid36x4x0",
+                    "pictureSrc": "https://s3.fr-par.scw.cloud/typebot/public/typebots/p6z8sw64v7ai0k1epulm9t9o/blocks/wuf1ejam45e0zu9mid36x4x0/items/stq0d7h1ysfjmne6gyepy9ju?v=1689360211828",
+                    "description": "21 Abr - 20 Mai",
+                    "outgoingEdgeId": "xttl5psaic5g98twh2cv1rzy"
+                  },
+                  {
+                    "id": "fa94z8x3nwx14ujo6fnzftee",
+                    "type": 3,
+                    "title": "GÊMEOS",
+                    "blockId": "wuf1ejam45e0zu9mid36x4x0",
+                    "pictureSrc": "https://s3.fr-par.scw.cloud/typebot/public/typebots/p6z8sw64v7ai0k1epulm9t9o/blocks/wuf1ejam45e0zu9mid36x4x0/items/fa94z8x3nwx14ujo6fnzftee?v=1689360224633",
+                    "description": "21 Mai - 20 Jun",
+                    "outgoingEdgeId": "nl2tye50bac3x4vziyc1q889"
+                  },
+                  {
+                    "id": "ynjvp1td5uqd9t8yodle2vhl",
+                    "type": 3,
+                    "title": "CÂNCER",
+                    "blockId": "wuf1ejam45e0zu9mid36x4x0",
+                    "pictureSrc": "https://s3.fr-par.scw.cloud/typebot/public/typebots/p6z8sw64v7ai0k1epulm9t9o/blocks/wuf1ejam45e0zu9mid36x4x0/items/ynjvp1td5uqd9t8yodle2vhl?v=1689360177413",
+                    "description": "21 Jun - 22 Jul",
+                    "outgoingEdgeId": "y40l7llkinq3g36a17nsmaly"
+                  },
+                  {
+                    "id": "ozgqs433dgmfwee1z1bt640h",
+                    "type": 3,
+                    "title": "LEÃO",
+                    "blockId": "wuf1ejam45e0zu9mid36x4x0",
+                    "pictureSrc": "https://s3.fr-par.scw.cloud/typebot/public/typebots/p6z8sw64v7ai0k1epulm9t9o/blocks/wuf1ejam45e0zu9mid36x4x0/items/ozgqs433dgmfwee1z1bt640h?v=1689360240947",
+                    "description": "23 Jul - 22 Ago",
+                    "outgoingEdgeId": "vsw5r4b1fg3qgogjgrkxbmn5"
+                  },
+                  {
+                    "id": "lbu022ivipd3aefznyoy4o29",
+                    "type": 3,
+                    "title": "VIRGEM",
+                    "blockId": "wuf1ejam45e0zu9mid36x4x0",
+                    "pictureSrc": "https://s3.fr-par.scw.cloud/typebot/public/typebots/p6z8sw64v7ai0k1epulm9t9o/blocks/wuf1ejam45e0zu9mid36x4x0/items/lbu022ivipd3aefznyoy4o29?v=1689360360919",
+                    "description": "23 Ago - 22 Set",
+                    "outgoingEdgeId": "xxyrf0dxat0yl75jo1qzq0qt"
+                  },
+                  {
+                    "id": "phdiopwdijsdb3saz83p5j8y",
+                    "type": 3,
+                    "title": "LIBRA",
+                    "blockId": "wuf1ejam45e0zu9mid36x4x0",
+                    "pictureSrc": "https://s3.fr-par.scw.cloud/typebot/public/typebots/p6z8sw64v7ai0k1epulm9t9o/blocks/wuf1ejam45e0zu9mid36x4x0/items/phdiopwdijsdb3saz83p5j8y?v=1689360374133",
+                    "description": "23 Set - 22 Out",
+                    "outgoingEdgeId": "x64jvh8ecvd7vccbefc18pik"
+                  },
+                  {
+                    "id": "iva8ia3iewfjip2otva2r3iu",
+                    "type": 3,
+                    "title": "ESCORPIÃO",
+                    "blockId": "wuf1ejam45e0zu9mid36x4x0",
+                    "pictureSrc": "https://s3.fr-par.scw.cloud/typebot/public/typebots/p6z8sw64v7ai0k1epulm9t9o/blocks/wuf1ejam45e0zu9mid36x4x0/items/iva8ia3iewfjip2otva2r3iu?v=1689360389465",
+                    "description": "23 Out - 21 Nov",
+                    "outgoingEdgeId": "m2gavbuwo5fjjbnxzjq33si7"
+                  },
+                  {
+                    "id": "hczg5t4xzluv8guft2oeyhk1",
+                    "type": 3,
+                    "title": "SARGITÁRIO",
+                    "blockId": "wuf1ejam45e0zu9mid36x4x0",
+                    "pictureSrc": "https://s3.fr-par.scw.cloud/typebot/public/typebots/p6z8sw64v7ai0k1epulm9t9o/blocks/wuf1ejam45e0zu9mid36x4x0/items/hczg5t4xzluv8guft2oeyhk1?v=1689360405186",
+                    "description": "22 Nov - 21 Dez",
+                    "outgoingEdgeId": "st2azrtvt7ha5pxn0w8wfpkf"
+                  },
+                  {
+                    "id": "e25a0evrhv5j3k64u1mhoo1w",
+                    "type": 3,
+                    "title": "CAPRICÓRNIO",
+                    "blockId": "wuf1ejam45e0zu9mid36x4x0",
+                    "pictureSrc": "https://s3.fr-par.scw.cloud/typebot/public/typebots/p6z8sw64v7ai0k1epulm9t9o/blocks/wuf1ejam45e0zu9mid36x4x0/items/e25a0evrhv5j3k64u1mhoo1w?v=1689360417858",
+                    "description": "22 Dez - 20 Jan",
+                    "outgoingEdgeId": "gi5er1us8595se8hg5qtdcu1"
+                  },
+                  {
+                    "id": "vtkhwbthrn7z79q6bduftfxf",
+                    "type": 3,
+                    "title": "AQUÁRIO",
+                    "blockId": "wuf1ejam45e0zu9mid36x4x0",
+                    "pictureSrc": "https://s3.fr-par.scw.cloud/typebot/public/typebots/p6z8sw64v7ai0k1epulm9t9o/blocks/wuf1ejam45e0zu9mid36x4x0/items/vtkhwbthrn7z79q6bduftfxf?v=1689360431986",
+                    "description": "21 Jan - 18 Fev",
+                    "outgoingEdgeId": "awa089giohcrjpqb9w1l0hgj"
+                  },
+                  {
+                    "id": "dfvkqre6paahgje894f843mx",
+                    "type": 3,
+                    "title": "PEIXES",
+                    "blockId": "wuf1ejam45e0zu9mid36x4x0",
+                    "pictureSrc": "https://s3.fr-par.scw.cloud/typebot/public/typebots/p6z8sw64v7ai0k1epulm9t9o/blocks/wuf1ejam45e0zu9mid36x4x0/items/dfvkqre6paahgje894f843mx?v=1689360444792",
+                    "description": "19 Fev - 20 Mar",
+                    "outgoingEdgeId": "u4quzdbk74bloy6w0pt3nhyd"
+                  }
+                ],
+                "groupId": "mi7m4msjb6hw21yzbt381d5w",
+                "options": {
+                  "variableId": "vxr6e4e28p5jel42ux9rnglun",
+                  "buttonLabel": "Send",
+                  "searchInputPlaceholder": "Filter the options..."
+                }
+              }
+            ],
+            "graphCoordinates": {
+              "x": -1018.57,
+              "y": 34.07
+            }
+          },
+          {
+            "id": "wvwgzgopunwershovuqx1uc0",
+            "title": "",
+            "blocks": [
+              {
+                "id": "io73cq8c5wyjfoz7selch675",
+                "type": "Wait",
+                "groupId": "wvwgzgopunwershovuqx1uc0",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "cf9hwuwe0nx5zy0bpo8yr2bl",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Agora me diga..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "wvwgzgopunwershovuqx1uc0"
+              },
+              {
+                "id": "lefuik58rodcyfnx3o97l0jn",
+                "type": "Wait",
+                "groupId": "wvwgzgopunwershovuqx1uc0",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "ewz0tiae9odk2ezufr4a7bzt",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Qual"
+                        },
+                        {
+                          "text": " é sua "
+                        },
+                        {
+                          "bold": true,
+                          "text": "data de nascimento? "
+                        },
+                        {
+                          "text": "📅✨"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "wvwgzgopunwershovuqx1uc0"
+              },
+              {
+                "id": "p7yz9lgik2dz4zhumlxyiwb0",
+                "type": "text input",
+                "groupId": "wvwgzgopunwershovuqx1uc0",
+                "options": {
+                  "isLong": false,
+                  "labels": {
+                    "button": "Enviar",
+                    "placeholder": "Digite aqui..."
+                  },
+                  "variableId": "vu0exlqlqyjqfl8ix0qhr3zdz"
+                }
+              },
+              {
+                "id": "svkbgarh1t3tdfik6cd24p38",
+                "type": "Wait",
+                "groupId": "wvwgzgopunwershovuqx1uc0",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "d8mnvadxc96xaedj4d5ww683",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Me diz também a "
+                        },
+                        {
+                          "bold": true,
+                          "text": "hora em que você nasceu? "
+                        },
+                        {
+                          "text": "🕰️✨\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "wvwgzgopunwershovuqx1uc0"
+              },
+              {
+                "id": "quplf35353eep1j2v2052ngd",
+                "type": "Wait",
+                "groupId": "wvwgzgopunwershovuqx1uc0",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "dy9ni2b3bykskm04e51c4kp1",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Se você"
+                        },
+                        {
+                          "bold": true,
+                          "text": " não souber"
+                        },
+                        {
+                          "text": " a hora exata, não tem "
+                        },
+                        {
+                          "bold": true,
+                          "text": "problema"
+                        },
+                        {
+                          "text": "..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "wvwgzgopunwershovuqx1uc0"
+              },
+              {
+                "id": "tfg6dv329luq3m6c44gjyn00",
+                "type": "text input",
+                "groupId": "wvwgzgopunwershovuqx1uc0",
+                "options": {
+                  "isLong": false,
+                  "labels": {
+                    "button": "Enviar",
+                    "placeholder": "Digite aqui..."
+                  },
+                  "variableId": "vutktvbldtvkfwhjdx708pppe"
+                },
+                "outgoingEdgeId": "iljppqnuo5u3x1qpngtmpuyo"
+              }
+            ],
+            "graphCoordinates": {
+              "x": -635.32,
+              "y": 46.75
+            }
+          },
+          {
+            "id": "r3qb5dp6yzfr61xskrtbvnau",
+            "title": "",
+            "blocks": [
+              {
+                "id": "mlkz0dzdjadx50r2aqpnpofu",
+                "type": "Wait",
+                "groupId": "r3qb5dp6yzfr61xskrtbvnau",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "nj6mgrmopam8i5ao2y2kb5qp",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Certo..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "r3qb5dp6yzfr61xskrtbvnau"
+              },
+              {
+                "id": "cy4u7w38m0b94dn36ph4oj4u",
+                "type": "Wait",
+                "groupId": "r3qb5dp6yzfr61xskrtbvnau",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "p3itqqnhknhx1nhery0vl6bv",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Agora pra garantir uma"
+                        },
+                        {
+                          "bold": true,
+                          "text": " leitura precisa"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "r3qb5dp6yzfr61xskrtbvnau"
+              },
+              {
+                "id": "qdclp0xzd43ibkkw2w2r5bul",
+                "type": "Wait",
+                "groupId": "r3qb5dp6yzfr61xskrtbvnau",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "rtx3pagtpdb2xamzzxdt83bz",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Vou pedir que você me "
+                        },
+                        {
+                          "bold": true,
+                          "text": "envie"
+                        },
+                        {
+                          "text": " uma"
+                        },
+                        {
+                          "bold": true,
+                          "text": " foto da palma da sua mão… "
+                        },
+                        {
+                          "text": "📸✋"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "r3qb5dp6yzfr61xskrtbvnau"
+              },
+              {
+                "id": "lp2g0uc2zhclfzunovb0uwxx",
+                "type": "Wait",
+                "groupId": "r3qb5dp6yzfr61xskrtbvnau",
+                "options": {
+                  "secondsToWaitFor": "4"
+                }
+              },
+              {
+                "id": "fnadjuytro5lkg3o49tdz26m",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/hprarvnsokxsffok9afcavqe?v=1689821572205"
+                },
+                "groupId": "r3qb5dp6yzfr61xskrtbvnau"
+              },
+              {
+                "id": "ymgedy3jw6vhk1uhow0aqbfs",
+                "type": "Wait",
+                "groupId": "r3qb5dp6yzfr61xskrtbvnau",
+                "options": {
+                  "secondsToWaitFor": "8"
+                }
+              },
+              {
+                "id": "buksfs0mno6vec3m2ra9g2sl",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Pode ser de qualquer uma das mãos, querida... 😌"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "r3qb5dp6yzfr61xskrtbvnau"
+              },
+              {
+                "id": "zxnub7qq6l1h7rkxg5qp4aa6",
+                "type": "Wait",
+                "groupId": "r3qb5dp6yzfr61xskrtbvnau",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "x0tvnrmi3hl76mmrwdnqelme",
+                "type": "file input",
+                "groupId": "r3qb5dp6yzfr61xskrtbvnau",
+                "options": {
+                  "labels": {
+                    "skip": "Skip",
+                    "clear": "Limpar",
+                    "button": "Carregar",
+                    "placeholder": "<strong>\n      Clique aqui para tirar a foto\n    </strong> <br>"
+                  },
+                  "sizeLimit": 8,
+                  "isRequired": true,
+                  "isMultipleAllowed": false
+                },
+                "outgoingEdgeId": "xkwsg10vgjw84j3xrww1zq39"
+              }
+            ],
+            "graphCoordinates": {
+              "x": -257.94,
+              "y": 42.67
+            }
+          },
+          {
+            "id": "sy76xgf2svg1g13iix8xag9y",
+            "title": "",
+            "blocks": [
+              {
+                "id": "q95b8jvpjfofouxncgyzy5em",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Imagino que você deve estar se perguntando, "
+                        },
+                        {
+                          "bold": true,
+                          "text": "como tudo isso é possível..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "sy76xgf2svg1g13iix8xag9y"
+              },
+              {
+                "id": "ijvn058rd4gqash9pwo8bxf7",
+                "type": "Wait",
+                "groupId": "sy76xgf2svg1g13iix8xag9y",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "i8zwprd1de00qeave8uk38mm",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Não é mesmo {{NOME}}?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "sy76xgf2svg1g13iix8xag9y"
+              },
+              {
+                "id": "dfwicn9zidl4sfzntrgs7849",
+                "type": "text input",
+                "groupId": "sy76xgf2svg1g13iix8xag9y",
+                "options": {
+                  "isLong": false,
+                  "labels": {
+                    "button": "Enviar",
+                    "placeholder": "Digite aqui..."
+                  }
+                }
+              },
+              {
+                "id": "dior9g9u5o76oxr3a5mxz14k",
+                "type": "Wait",
+                "groupId": "sy76xgf2svg1g13iix8xag9y",
+                "options": {
+                  "secondsToWaitFor": "4"
+                }
+              },
+              {
+                "id": "zhg0kkz8nsolckdythpak6x8",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Sei que pode "
+                        },
+                        {
+                          "bold": true,
+                          "text": "parecer"
+                        },
+                        {
+                          "text": " loucura, mas isso vai muito "
+                        },
+                        {
+                          "bold": true,
+                          "text": "além"
+                        },
+                        {
+                          "text": " da nossa "
+                        },
+                        {
+                          "bold": true,
+                          "text": "compreensão"
+                        },
+                        {
+                          "text": "..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "sy76xgf2svg1g13iix8xag9y"
+              },
+              {
+                "id": "snagclwknp64pmsec7rnsv6h",
+                "type": "Wait",
+                "groupId": "sy76xgf2svg1g13iix8xag9y",
+                "options": {
+                  "secondsToWaitFor": "8"
+                }
+              },
+              {
+                "id": "kxudw9sq8koixb9igppvog8o",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/muaybu8r4douw2gfjyikbaa4?v=1689448496430"
+                },
+                "groupId": "sy76xgf2svg1g13iix8xag9y"
+              },
+              {
+                "id": "kwwqx16mjzvvkskkdr2fe8qa",
+                "type": "Wait",
+                "groupId": "sy76xgf2svg1g13iix8xag9y",
+                "options": {
+                  "secondsToWaitFor": "18"
+                }
+              },
+              {
+                "id": "z7mh827nrmri6m2eo5d96z26",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Veja só mais alguns "
+                        },
+                        {
+                          "bold": true,
+                          "text": "casais"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "que"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "ajudei"
+                        },
+                        {
+                          "text": " a formar com minhas "
+                        },
+                        {
+                          "bold": true,
+                          "text": "leituras e desenhos"
+                        },
+                        {
+                          "text": "..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "sy76xgf2svg1g13iix8xag9y"
+              },
+              {
+                "id": "rl6i7p16ajgtvfakn2e4aetp",
+                "type": "Wait",
+                "groupId": "sy76xgf2svg1g13iix8xag9y",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "sbk15qje1v5dj2n79vv24gs7",
+                "type": "embed",
+                "content": {
+                  "url": "https://sua-almagemea.online/depoimentos/",
+                  "height": 460
+                },
+                "groupId": "sy76xgf2svg1g13iix8xag9y"
+              },
+              {
+                "id": "a2b5sb39ydrr0tq3pic7b6tc",
+                "type": "Wait",
+                "groupId": "sy76xgf2svg1g13iix8xag9y",
+                "options": {
+                  "secondsToWaitFor": "6"
+                }
+              },
+              {
+                "id": "sdsosiol919srv26yxlw3f1t",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Agora me conte, você "
+                        },
+                        {
+                          "bold": true,
+                          "text": "acredita"
+                        },
+                        {
+                          "text": " em "
+                        },
+                        {
+                          "bold": true,
+                          "text": "destino?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "sy76xgf2svg1g13iix8xag9y"
+              },
+              {
+                "id": "q8qek36l58fz629ef4dxa7ay",
+                "type": "Wait",
+                "groupId": "sy76xgf2svg1g13iix8xag9y",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "qaappnjsdmzyei7zly0raneq",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "djal1mb0uypw81r3cq69bok6",
+                    "type": 0,
+                    "blockId": "iss4y8xb6lu64490jtsxqdby",
+                    "content": "Sim, com toda certeza!",
+                    "outgoingEdgeId": "j73qmkj842x6up9dg1ia7ya7"
+                  },
+                  {
+                    "id": "f0dg6hdmjezt39oz3pfrrddg",
+                    "type": 0,
+                    "blockId": "iss4y8xb6lu64490jtsxqdby",
+                    "content": "Não, sou meio cética.",
+                    "outgoingEdgeId": "a3uion4e7rcvwmmzvfhjigt8"
+                  }
+                ],
+                "groupId": "sy76xgf2svg1g13iix8xag9y",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                }
+              }
+            ],
+            "graphCoordinates": {
+              "x": 521.14,
+              "y": 43.86
+            }
+          },
+          {
+            "id": "em8s29uc36mi5xm7ascvd3fs",
+            "title": "",
+            "blocks": [
+              {
+                "id": "depmxpd6nb9d8rtyjs2ceu64",
+                "type": "Wait",
+                "groupId": "em8s29uc36mi5xm7ascvd3fs",
+                "options": {
+                  "secondsToWaitFor": "18"
+                }
+              },
+              {
+                "id": "llfasdmqz4dl611la15tbp3d",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Mas agora"
+                        },
+                        {
+                          "bold": true,
+                          "text": " "
+                        },
+                        {
+                          "text": "preste"
+                        },
+                        {
+                          "bold": true,
+                          "text": " muita atenção "
+                        },
+                        {
+                          "text": "querida..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "em8s29uc36mi5xm7ascvd3fs"
+              },
+              {
+                "id": "zcnee7qnwb852fxht819wqcc",
+                "type": "Wait",
+                "groupId": "em8s29uc36mi5xm7ascvd3fs",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "numq3h1o5dba40px9btnqyxx",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Eu "
+                        },
+                        {
+                          "bold": true,
+                          "text": "não"
+                        },
+                        {
+                          "text": " estou "
+                        },
+                        {
+                          "bold": true,
+                          "text": "cobrando nada"
+                        },
+                        {
+                          "text": " pelos "
+                        },
+                        {
+                          "bold": true,
+                          "text": "desenhos"
+                        },
+                        {
+                          "text": "..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "em8s29uc36mi5xm7ascvd3fs"
+              },
+              {
+                "id": "q1ek1sckknp33s1xadgzougj",
+                "type": "Wait",
+                "groupId": "em8s29uc36mi5xm7ascvd3fs",
+                "options": {
+                  "secondsToWaitFor": "4"
+                }
+              },
+              {
+                "id": "dhb3o5mamqwz9dtobc018r69",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/vsafe4gx7xy9yv58od7rs273?v=1689364930362"
+                },
+                "groupId": "em8s29uc36mi5xm7ascvd3fs"
+              },
+              {
+                "id": "wpg0zlp4hnmiu16on8jv53o0",
+                "type": "Wait",
+                "groupId": "em8s29uc36mi5xm7ascvd3fs",
+                "options": {
+                  "secondsToWaitFor": "8"
+                }
+              },
+              {
+                "id": "ial56xtpx2wg9x0s39kxyc5s",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/rqaczuc5rugi42oz624keu18?v=1689364943706"
+                },
+                "groupId": "em8s29uc36mi5xm7ascvd3fs"
+              },
+              {
+                "id": "ed9kqkeproncky5wxc0bscjk",
+                "type": "Wait",
+                "groupId": "em8s29uc36mi5xm7ascvd3fs",
+                "options": {
+                  "secondsToWaitFor": "11"
+                }
+              },
+              {
+                "id": "jk63b4amuoeutozl4cmsn5sl",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "A taxa"
+                        },
+                        {
+                          "bold": true,
+                          "text": " "
+                        },
+                        {
+                          "text": "é de "
+                        },
+                        {
+                          "bold": true,
+                          "text": "apenas"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "R$27,90"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "em8s29uc36mi5xm7ascvd3fs"
+              },
+              {
+                "id": "nnbnsgdtj2d1xcxdi81f4ljw",
+                "type": "Wait",
+                "groupId": "em8s29uc36mi5xm7ascvd3fs",
+                "options": {
+                  "secondsToWaitFor": "8"
+                }
+              },
+              {
+                "id": "ahparlkn88nxd1p1v03ji3kj",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/qvuebu51w5d1amfglr4cmct9?v=1689365004131"
+                },
+                "groupId": "em8s29uc36mi5xm7ascvd3fs"
+              },
+              {
+                "id": "mqplq1izf4sr4ad97gohm39n",
+                "type": "Wait",
+                "groupId": "em8s29uc36mi5xm7ascvd3fs",
+                "options": {
+                  "secondsToWaitFor": "13"
+                }
+              },
+              {
+                "id": "r8au3ednaquo2co1mouswvv4",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Clique no botão que está aqui embaixo {{NOME}} 👇"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "em8s29uc36mi5xm7ascvd3fs"
+              },
+              {
+                "id": "zp896akms77csalvi0qnamvx",
+                "type": "Wait",
+                "groupId": "em8s29uc36mi5xm7ascvd3fs",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "jcivsyd0hsiem92ik0l8crz2",
+                "type": "embed",
+                "content": {
+                  "url": "https://sua-almagemea.online/botao?src=tfgfb-alma-49-ca1-cp6-cj02-ad14",
+                  "height": 75
+                },
+                "groupId": "em8s29uc36mi5xm7ascvd3fs"
+              },
+              {
+                "id": "berq3u8vvw9pd7sj7z3vwgkh",
+                "type": "Wait",
+                "groupId": "em8s29uc36mi5xm7ascvd3fs",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "cv8tase6bh0g7ilvlxw3yuya",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/ty9fycksenezw0idif8p779b?v=1689365075191"
+                },
+                "groupId": "em8s29uc36mi5xm7ascvd3fs"
+              }
+            ],
+            "graphCoordinates": {
+              "x": 1294.81,
+              "y": 47.17
+            }
+          },
+          {
+            "id": "ha0zkbqo2w65hs1csxhu5kr3",
+            "title": "Group #12",
+            "blocks": [
+              {
+                "id": "rm0im471fpgx7vyo1mmvah6n",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Sou astróloga especializada em leitura de astros e possuo o dom de capturar a essência das almas gêmeas através das linhas das mãos…"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ha0zkbqo2w65hs1csxhu5kr3"
+              },
+              {
+                "id": "a34mzxomvlqsaepbpwux14wv",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ha0zkbqo2w65hs1csxhu5kr3"
+              },
+              {
+                "id": "o6q4d41bx1vshg9b4lronp9v",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Primeiro irei algumas perguntinhas sobre você e depois vou pedir que você me envie uma foto da palma das suas mãos…"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ha0zkbqo2w65hs1csxhu5kr3"
+              },
+              {
+                "id": "rl8knnpo6kohlcbgntjb4qi3",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Com essas informações eu poderei me concentrar em analisar as linhas da sua mão, interpretar os sinais e as energias presentes… E traduzir tudo isso em um retrato que revelará o rosto da sua alma gêmea!\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ha0zkbqo2w65hs1csxhu5kr3"
+              },
+              {
+                "id": "pg7wj8d22kkg09boemc9pgt1",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "A Mônima mesmo… Estava extremamente frustrada com sua vida amorosa… Vivia entrando e saindo de relacionamentos conturbados e tóxicos… Mas dentro de algumas semanas, logo após ela fazer o retrato da alma gêmea comigo... Ela encontrou o Gabriel na fila do supermercado! E era simplesmente o mesmo rosto que estava no desenho...\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ha0zkbqo2w65hs1csxhu5kr3"
+              },
+              {
+                "id": "f6ksjgl5194k45j18iwcsdyn",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Já a Júlia morria de saudades do ex… Eles tinham terminado por motivos pessoais e desde então nunca mais tinham se falado… E foi graças ao meu desenho que eles reataram e estão juntos até hoje…\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ha0zkbqo2w65hs1csxhu5kr3"
+              },
+              {
+                "id": "l4lzip1krq6s3gus1bdfn458",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Inclusive este mês eu estive em uma reportagem na globo falando sobre o meu trabalho…"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ha0zkbqo2w65hs1csxhu5kr3"
+              },
+              {
+                "id": "w0soj23qspj9kjwhisj7ygvj",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ha0zkbqo2w65hs1csxhu5kr3"
+              },
+              {
+                "id": "xaw49j6gm3rvopq1799gx207",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ha0zkbqo2w65hs1csxhu5kr3"
+              },
+              {
+                "id": "bjcak3qjnelyq302xcnls0ri",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ha0zkbqo2w65hs1csxhu5kr3"
+              }
+            ],
+            "graphCoordinates": {
+              "x": 2167.82,
+              "y": 89.53
+            }
+          },
+          {
+            "id": "sxujgbhi5gaafo1p0013r06t",
+            "title": "Group #11",
+            "blocks": [
+              {
+                "id": "xoch7hn9sjbct9v9vomo2mie",
+                "type": "Wait",
+                "groupId": "sxujgbhi5gaafo1p0013r06t",
+                "options": {
+                  "secondsToWaitFor": "6"
+                }
+              },
+              {
+                "id": "us4h6v00myil1pnzo2gvnje1",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/qgnkb8vpx81evdup10seld26?v=1689372186277"
+                },
+                "groupId": "sxujgbhi5gaafo1p0013r06t"
+              },
+              {
+                "id": "atb9st7v4pmiwiwapauryy0h",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Isso já aconteceu com você também?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "sxujgbhi5gaafo1p0013r06t"
+              },
+              {
+                "id": "dgbtws6khrjyk857satiynlc",
+                "type": "Wait",
+                "groupId": "sxujgbhi5gaafo1p0013r06t",
+                "options": {
+                  "secondsToWaitFor": "4"
+                }
+              },
+              {
+                "id": "sbyq8gjfr4cq1jwsph1d9n4o",
+                "type": "Wait",
+                "groupId": "sxujgbhi5gaafo1p0013r06t",
+                "options": {
+                  "secondsToWaitFor": "4"
+                }
+              },
+              {
+                "id": "llupa72yvpzttw642gmlzh6r",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/baijlifgixdqry7uf0z03wdo?v=1689372805973"
+                },
+                "groupId": "sxujgbhi5gaafo1p0013r06t"
+              },
+              {
+                "id": "l3h4xnev5nw45ly3cabwilfr",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/blocks/j9adwb140b9dvtb7i23p7eni?v=1689449051004"
+                },
+                "groupId": "sxujgbhi5gaafo1p0013r06t"
+              },
+              {
+                "id": "pn17net6v1gehdn7crzx4bqs",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Pode ser de qualquer uma das mãos"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "sxujgbhi5gaafo1p0013r06t"
+              }
+            ],
+            "graphCoordinates": {
+              "x": 2498.1,
+              "y": 70.01
+            }
+          },
+          {
+            "id": "v2jy8ds14qvkyys8gvurpq2o",
+            "title": "",
+            "blocks": [
+              {
+                "id": "g3usycs9lvu4maskwidkjswx",
+                "type": "Pixel",
+                "groupId": "v2jy8ds14qvkyys8gvurpq2o",
+                "options": {
+                  "params": [
+                    {
+                      "id": "wffv4em8i26ulm3roj5upznp"
+                    }
+                  ],
+                  "pixelId": "822178972757010",
+                  "eventType": "InitiateCheckout",
+                  "isInitSkip": true
+                },
+                "outgoingEdgeId": "g4njvqejm3ragbidlfdnf148"
+              }
+            ],
+            "graphCoordinates": {
+              "x": 951.4,
+              "y": 1113.17
+            }
+          },
+          {
+            "id": "d3rtewlr0q93562gg17jfpux",
+            "title": "",
+            "blocks": [
+              {
+                "id": "m21afp6anv1tqwgl03sumvxk",
+                "type": "Pixel",
+                "groupId": "d3rtewlr0q93562gg17jfpux",
+                "options": {
+                  "pixelId": "822178972757010",
+                  "isInitSkip": true
+                },
+                "outgoingEdgeId": "alno7ey4ddt31zox9w27c0wm"
+              }
+            ],
+            "graphCoordinates": {
+              "x": -2539.79,
+              "y": 24.21
+            }
+          }
+        ],
+        "variables": [
+          {
+            "id": "vprp91gkcj6ooz2wteh9qrvjn",
+            "name": "NOME"
+          },
+          {
+            "id": "vu0exlqlqyjqfl8ix0qhr3zdz",
+            "name": "DATA"
+          },
+          {
+            "id": "vutktvbldtvkfwhjdx708pppe",
+            "name": "HORA"
+          },
+          {
+            "id": "vxr6e4e28p5jel42ux9rnglun",
+            "name": "SIGNO"
+          }
+        ],
+        "edges": [
+          {
+            "id": "ktk6yj6vub49p39z6yxygjs8",
+            "to": {
+              "groupId": "oqf6frq3x3ybgephw57spqm4"
+            },
+            "from": {
+              "itemId": "blo4688li2ckll8q6rpx4oz7",
+              "blockId": "p2i66qwpddurss2j5s046gxd",
+              "groupId": "n3g5w6uabdynk5w03wh7a0uy"
+            }
+          },
+          {
+            "id": "dboh7m90355yqy6f27tz5y4h",
+            "to": {
+              "groupId": "wvwgzgopunwershovuqx1uc0"
+            },
+            "from": {
+              "itemId": "fs21dyzip8mhz65bttntzrju",
+              "blockId": "uinct2nxufqquug8tp6bkqw9",
+              "groupId": "mi7m4msjb6hw21yzbt381d5w"
+            }
+          },
+          {
+            "id": "xttl5psaic5g98twh2cv1rzy",
+            "to": {
+              "groupId": "wvwgzgopunwershovuqx1uc0"
+            },
+            "from": {
+              "itemId": "stq0d7h1ysfjmne6gyepy9ju",
+              "blockId": "uinct2nxufqquug8tp6bkqw9",
+              "groupId": "mi7m4msjb6hw21yzbt381d5w"
+            }
+          },
+          {
+            "id": "nl2tye50bac3x4vziyc1q889",
+            "to": {
+              "groupId": "wvwgzgopunwershovuqx1uc0"
+            },
+            "from": {
+              "itemId": "fa94z8x3nwx14ujo6fnzftee",
+              "blockId": "uinct2nxufqquug8tp6bkqw9",
+              "groupId": "mi7m4msjb6hw21yzbt381d5w"
+            }
+          },
+          {
+            "id": "y40l7llkinq3g36a17nsmaly",
+            "to": {
+              "groupId": "wvwgzgopunwershovuqx1uc0"
+            },
+            "from": {
+              "itemId": "ynjvp1td5uqd9t8yodle2vhl",
+              "blockId": "uinct2nxufqquug8tp6bkqw9",
+              "groupId": "mi7m4msjb6hw21yzbt381d5w"
+            }
+          },
+          {
+            "id": "vsw5r4b1fg3qgogjgrkxbmn5",
+            "to": {
+              "groupId": "wvwgzgopunwershovuqx1uc0"
+            },
+            "from": {
+              "itemId": "ozgqs433dgmfwee1z1bt640h",
+              "blockId": "uinct2nxufqquug8tp6bkqw9",
+              "groupId": "mi7m4msjb6hw21yzbt381d5w"
+            }
+          },
+          {
+            "id": "xxyrf0dxat0yl75jo1qzq0qt",
+            "to": {
+              "groupId": "wvwgzgopunwershovuqx1uc0"
+            },
+            "from": {
+              "itemId": "lbu022ivipd3aefznyoy4o29",
+              "blockId": "uinct2nxufqquug8tp6bkqw9",
+              "groupId": "mi7m4msjb6hw21yzbt381d5w"
+            }
+          },
+          {
+            "id": "x64jvh8ecvd7vccbefc18pik",
+            "to": {
+              "groupId": "wvwgzgopunwershovuqx1uc0"
+            },
+            "from": {
+              "itemId": "phdiopwdijsdb3saz83p5j8y",
+              "blockId": "uinct2nxufqquug8tp6bkqw9",
+              "groupId": "mi7m4msjb6hw21yzbt381d5w"
+            }
+          },
+          {
+            "id": "m2gavbuwo5fjjbnxzjq33si7",
+            "to": {
+              "groupId": "wvwgzgopunwershovuqx1uc0"
+            },
+            "from": {
+              "itemId": "iva8ia3iewfjip2otva2r3iu",
+              "blockId": "uinct2nxufqquug8tp6bkqw9",
+              "groupId": "mi7m4msjb6hw21yzbt381d5w"
+            }
+          },
+          {
+            "id": "st2azrtvt7ha5pxn0w8wfpkf",
+            "to": {
+              "groupId": "wvwgzgopunwershovuqx1uc0"
+            },
+            "from": {
+              "itemId": "hczg5t4xzluv8guft2oeyhk1",
+              "blockId": "uinct2nxufqquug8tp6bkqw9",
+              "groupId": "mi7m4msjb6hw21yzbt381d5w"
+            }
+          },
+          {
+            "id": "gi5er1us8595se8hg5qtdcu1",
+            "to": {
+              "groupId": "wvwgzgopunwershovuqx1uc0"
+            },
+            "from": {
+              "itemId": "e25a0evrhv5j3k64u1mhoo1w",
+              "blockId": "uinct2nxufqquug8tp6bkqw9",
+              "groupId": "mi7m4msjb6hw21yzbt381d5w"
+            }
+          },
+          {
+            "id": "awa089giohcrjpqb9w1l0hgj",
+            "to": {
+              "groupId": "wvwgzgopunwershovuqx1uc0"
+            },
+            "from": {
+              "itemId": "vtkhwbthrn7z79q6bduftfxf",
+              "blockId": "uinct2nxufqquug8tp6bkqw9",
+              "groupId": "mi7m4msjb6hw21yzbt381d5w"
+            }
+          },
+          {
+            "id": "u4quzdbk74bloy6w0pt3nhyd",
+            "to": {
+              "groupId": "wvwgzgopunwershovuqx1uc0"
+            },
+            "from": {
+              "itemId": "dfvkqre6paahgje894f843mx",
+              "blockId": "uinct2nxufqquug8tp6bkqw9",
+              "groupId": "mi7m4msjb6hw21yzbt381d5w"
+            }
+          },
+          {
+            "id": "iljppqnuo5u3x1qpngtmpuyo",
+            "to": {
+              "groupId": "r3qb5dp6yzfr61xskrtbvnau"
+            },
+            "from": {
+              "blockId": "tfg6dv329luq3m6c44gjyn00",
+              "groupId": "wvwgzgopunwershovuqx1uc0"
+            }
+          },
+          {
+            "id": "j73qmkj842x6up9dg1ia7ya7",
+            "to": {
+              "groupId": "gr98xgzyzpu96sl9z6pf0fg8"
+            },
+            "from": {
+              "itemId": "djal1mb0uypw81r3cq69bok6",
+              "blockId": "qaappnjsdmzyei7zly0raneq",
+              "groupId": "sy76xgf2svg1g13iix8xag9y"
+            }
+          },
+          {
+            "id": "a3uion4e7rcvwmmzvfhjigt8",
+            "to": {
+              "groupId": "gr98xgzyzpu96sl9z6pf0fg8"
+            },
+            "from": {
+              "itemId": "f0dg6hdmjezt39oz3pfrrddg",
+              "blockId": "qaappnjsdmzyei7zly0raneq",
+              "groupId": "sy76xgf2svg1g13iix8xag9y"
+            }
+          },
+          {
+            "id": "wfnx05e3w2w40hlq8fz00ggw",
+            "to": {
+              "groupId": "sy76xgf2svg1g13iix8xag9y"
+            },
+            "from": {
+              "blockId": "j39hoeb7xgdwrxsa0ilsoj21",
+              "groupId": "kzfmprkankxti6nvnjs0fede"
+            }
+          },
+          {
+            "id": "kanq5xkxwmka6h0zlwo33dpq",
+            "to": {
+              "groupId": "mi7m4msjb6hw21yzbt381d5w"
+            },
+            "from": {
+              "blockId": "v0f3h0iu1g2764rjvw8p3f0n",
+              "groupId": "oqf6frq3x3ybgephw57spqm4"
+            }
+          },
+          {
+            "id": "q5ni653h5gdlsf6pb0xigq6l",
+            "to": {
+              "groupId": "em8s29uc36mi5xm7ascvd3fs"
+            },
+            "from": {
+              "blockId": "est5au972nz3bpupczciuahg",
+              "groupId": "gr98xgzyzpu96sl9z6pf0fg8"
+            }
+          },
+          {
+            "id": "xkwsg10vgjw84j3xrww1zq39",
+            "to": {
+              "groupId": "kzfmprkankxti6nvnjs0fede"
+            },
+            "from": {
+              "blockId": "x0tvnrmi3hl76mmrwdnqelme",
+              "groupId": "r3qb5dp6yzfr61xskrtbvnau"
+            }
+          },
+          {
+            "id": "alno7ey4ddt31zox9w27c0wm",
+            "to": {
+              "groupId": "r3kpyat62o5bn0r9q3i39f0k"
+            },
+            "from": {
+              "blockId": "m21afp6anv1tqwgl03sumvxk",
+              "groupId": "d3rtewlr0q93562gg17jfpux"
+            }
+          },
+          {
+            "id": "gq7kagfggam8xlm3yfr5nxh7",
+            "to": {
+              "groupId": "n3g5w6uabdynk5w03wh7a0uy"
+            },
+            "from": {
+              "blockId": "nmizy69o84xw69eatgnplme2",
+              "groupId": "r3kpyat62o5bn0r9q3i39f0k"
+            }
+          },
+          {
+            "id": "g4njvqejm3ragbidlfdnf148",
+            "to": {
+              "blockId": "jcivsyd0hsiem92ik0l8crz2",
+              "groupId": "em8s29uc36mi5xm7ascvd3fs"
+            },
+            "from": {
+              "blockId": "g3usycs9lvu4maskwidkjswx",
+              "groupId": "v2jy8ds14qvkyys8gvurpq2o"
+            }
+          }
+        ],
+        "theme": {
+          "chat": {
+            "inputs": {
+              "color": "#000000",
+              "backgroundColor": "#FFFFFF",
+              "placeholderColor": "#28292a"
+            },
+            "buttons": {
+              "color": "#FFFFFF",
+              "backgroundColor": "#128C7E"
+            },
+            "roundness": "medium",
+            "hostAvatar": {
+              "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/hostAvatar?v=1689894328809",
+              "isEnabled": true
+            },
+            "guestAvatar": {
+              "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/cli88mae30010mh0f0yzjqn48/guestAvatar?v=1685330799682",
+              "isEnabled": false
+            },
+            "hostBubbles": {
+              "color": "#303235",
+              "backgroundColor": "#FFFFFF"
+            },
+            "guestBubbles": {
+              "color": "#303235",
+              "backgroundColor": "#e1ffc7"
+            }
+          },
+          "general": {
+            "font": "Open Sans",
+            "background": {
+              "type": "Image",
+              "content": "https://s3.fr-par.scw.cloud/typebot/public/typebots/cli88mae30010mh0f0yzjqn48/background?v=1685470080750"
+            }
+          },
+          "customCss": ".typebot-chat-view > .flex:first-child {\n    padding-top: 30px;\n}\n\n.typebot-input {\n    position: fixed;\n    bottom: 0;\n    align-items: center;\n    z-index: 999;\n    right: 0;\n}\n\n.typebot-input .typebot-button {\n    background: #008a7c;\n    border-radius: 50%;\n    color: #fff;\n    position: relative;\n    width: 50px;\n    height: 50px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n\n.typebot-container {\n    background-size: initial!important;\n    background-repeat: repeat-x!important;\n}\n\n.typebot-host-bubble>.bubble-typing {\n  border-radius: 0 5px 5px 5px;\n}\n\n.typebot-host-bubble>.bubble-typing:after {\n    position: absolute;\n    content: \"\";\n    width: 0;\n    height: 0;\n    border-style: solid;\n    border-width: 0px 10px 10px 0;\n    border-color: transparent #fff transparent transparent;\n    top: 0;\n    left: -10px;\n}\n\n.typebot-guest-bubble {\n  position: relative;\n  border-radius: 5px 0 5px 5px;\n}\n\n.typebot-guest-bubble:after {\n  position: absolute;\n  content: \"\";\n  width: 0;\n  height: 0;\n  border-style: solid;\n}\n\n.typebot-guest-bubble:after {\n    border-width: 0px 0 10px 10px;\n    border-color: transparent transparent transparent #e1ffc7;\n    top: 0;\n    right: -10px;\n    border-style: solid;\n}\n\niframe[src=\"\"] {\n  position: fixed;\n  top: 0;\n  left: 0;\n  display: relative;\n  width: 100%;\n  height: 100% !important;\n  z-index: 999999;\n  border: none;\n  padding: 0;\n  margin: 0;\n}\n\na#lite-badge {\n  display: none!important;\n}"
+        },
+        "settings": {
+          "general": {
+            "rememberUser": {
+              "isEnabled": false
+            },
+            "isBrandingEnabled": true,
+            "isInputPrefillEnabled": false,
+            "isHideQueryParamsEnabled": false
+          },
+          "metadata": {
+            "title": "WhatsApp Web",
+            "imageUrl": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/ogImage?v=1689369693313",
+            "favIconUrl": "https://s3.fr-par.scw.cloud/typebot/public/typebots/njvbi9pvrkr92neltjy609q8/favIcon?v=1689369684150",
+            "description": "Faça agora sua consulta com a Astróloga Luna.",
+            "customHeadCode": "<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=822178972757010&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css\">\n<style>\n  .hide {\n    display: none!important;\n  }\n  typebot-standard {\n    position: relative;\n    z-index: 9999;\n  }\n  #__next {\n    position: relative;\n    z-index: 9999;\n}\n  /* User Bar */\n.user-bar {\n  width: 100%;\n  height: 55px;\n  background: #005e54;\n  color: #fff;\n  padding: 0;\n  font-size: 24px;\n  position: fixed;\n  z-index: 99999;\n  display: block;\n  top: 0;\n}\n\n.user-bar:after {\n  content: \"\";\n  display: table;\n  clear: both;\n}\n\n.user-bar div {\n    float: left;\n    transform: translateY(-50%);\n    position: relative;\n    top: 50%;\n    margin-left: 10px;\n}\n\n.user-bar .actions {\n  float: right;\n  margin: 0 0 0 20px;\n}\n\n.user-bar .actions.more {\n  margin: 0 12px 0 32px;\n}\n\n.user-bar .actions.attachment {\n  margin: 0 0 0 30px;\n}\n\n.user-bar .actions.attachment i {\n  display: block;\n  transform: rotate(-45deg);\n}\n\n.user-bar .avatar {\n  margin: 0 0 0 5px;\n  width: 36px;\n  height: 36px;\n}\n\n.user-bar .avatar img {\n  border-radius: 50%;\n  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1);\n  display: block;\n  width: 100%;\n}\n\n.user-bar .name {\n  font-size: 17px;\n  font-weight: 600;\n  text-overflow: ellipsis;\n  letter-spacing: 0.3px;\n  margin: 0 0 0 8px;\n  overflow: hidden;\n  white-space: nowrap;\n  width: 150px;\n}\n\n.user-bar .status {\n  display: block;\n  font-size: 13px;\n  font-weight: 400;\n  letter-spacing: 0;\n}\n</style>\n\n<script>\nfunction criarBarra() {\n  var userBar = document.createElement(\"div\");\n  userBar.className = \"user-bar\";\n\n  var backButton = document.createElement(\"div\");\n  backButton.className = \"back\";\n  backButton.innerHTML = '<i class=\"zmdi zmdi-arrow-left\"></i>';\n\n  var avatar = document.createElement(\"div\");\n  avatar.className = \"avatar\";\n  avatar.innerHTML = '<img src=\"https://media.discordapp.net/attachments/1111988990174838809/1131722801825452142/perfilluna.jpg?\" alt=\"Luna\">';\n\n  var name = document.createElement(\"div\");\n  name.className = \"name\";\n  name.innerHTML = '<span>Luna</span><span class=\"status\">online</span>';\n\n  var moreActions = document.createElement(\"div\");\n  moreActions.className = \"actions more\";\n  moreActions.innerHTML = '<i class=\"zmdi zmdi-more-vert\"></i>';\n\n  var attachmentAction = document.createElement(\"div\");\n  attachmentAction.className = \"actions attachment\";\n  attachmentAction.innerHTML = '<i class=\"zmdi zmdi-attachment-alt\"></i>';\n\n  var phoneAction = document.createElement(\"div\");\n  phoneAction.className = \"actions\";\n  phoneAction.innerHTML = '<i class=\"zmdi zmdi-phone\"></i>';\n\n  userBar.appendChild(backButton);\n  userBar.appendChild(avatar);\n  userBar.appendChild(name);\n  userBar.appendChild(moreActions);\n  userBar.appendChild(attachmentAction);\n  userBar.appendChild(phoneAction);\n\n  var elementoPai = document.querySelector(\"#__next\");\n  if (elementoPai) {\n    elementoPai.insertBefore(userBar, elementoPai.firstChild);\n  }\n}\n\ncriarBarra();\n</script>\n"
+          },
+          "typingEmulation": {
+            "speed": 300,
+            "enabled": true,
+            "maxDelay": 1.5
+          }
+        }
+      }
+    
+    

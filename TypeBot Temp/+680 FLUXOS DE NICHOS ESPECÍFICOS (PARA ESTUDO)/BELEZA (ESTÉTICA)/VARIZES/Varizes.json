@@ -1,0 +1,1360 @@
+{
+  "id": "cll2m29fc00bwlb0f8rxn8rky",
+  "version": "3",
+  "createdAt": "hlox0fa13olceqpxwpmnfyi1",
+  "groups": [
+    {
+            "id": "ubme05o8bypvyx37e3otsxt9",
+            "title": "Start",
+            "blocks": [
+              {
+                "id": "cx5iel8jxfo4caorf8rnjiw0",
+                "type": "start",
+                "label": "Start",
+                "groupId": "ubme05o8bypvyx37e3otsxt9",
+                "outgoingEdgeId": "nuvuo5skur6uxci2wprxdare"
+              }
+            ],
+            "graphCoordinates": {
+              "x": -1804.43,
+              "y": -11.61
+            }
+          },
+          {
+            "id": "cxb62ppwd3mmyifuk5bkusze",
+            "title": "",
+            "blocks": [
+              {
+                "id": "kl16bf94mpvm7ux0w9yhaksc",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "[RECEITA GRATUITA ABAIXO]"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "ESSA RECEITA É GRATUITA!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "cxb62ppwd3mmyifuk5bkusze"
+              },
+              {
+                "id": "m9p1i9p3lahpgpznxmchumh8",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "pd1yj0mi04mz69pf3z1m0v4x",
+                    "type": 0,
+                    "blockId": "m9p1i9p3lahpgpznxmchumh8",
+                    "content": "CLIQUE AQUI PARA RECEBER A RECEITA"
+                  }
+                ],
+                "groupId": "cxb62ppwd3mmyifuk5bkusze",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                }
+              },
+              {
+                "id": "ojoiuqw11ol7mluihnpdkffy",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Olá, meu nome é Dra. Laura Aguiar"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "cxb62ppwd3mmyifuk5bkusze"
+              },
+              {
+                "id": "h9jhpsm5w83cfrwtlqtvsd38",
+                "type": "Wait",
+                "groupId": "cxb62ppwd3mmyifuk5bkusze",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "ucr8xkouaoifruxsrml91evk",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/ovovkfqz51w6j9ph4fjx6dsr/blocks/ucr8xkouaoifruxsrml91evk?v=1690815579698"
+                },
+                "groupId": "cxb62ppwd3mmyifuk5bkusze"
+              },
+              {
+                "id": "amfwk99rwrspc7o6hro0bv7v",
+                "type": "Wait",
+                "groupId": "cxb62ppwd3mmyifuk5bkusze",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "kllalm3my8hvwaz91j8owod1",
+                "type": "image",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/s5lf0fe4r94cx3xiopgosenz/blocks/kllalm3my8hvwaz91j8owod1?v=1691031008767"
+                },
+                "groupId": "cxb62ppwd3mmyifuk5bkusze"
+              },
+              {
+                "id": "dbi2zwoddcnec8xrykof79b8",
+                "type": "Wait",
+                "groupId": "cxb62ppwd3mmyifuk5bkusze",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "h1j9r3ix9c5n0c7odrdxbvl8",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Vou te fazer umas perguntas, tudo bem?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "cxb62ppwd3mmyifuk5bkusze"
+              },
+              {
+                "id": "csehritnjnat8lskqyahz8lm",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "y4p4kv7krxatlqj66a3480xf",
+                    "type": 0,
+                    "blockId": "csehritnjnat8lskqyahz8lm",
+                    "content": "CLIQUE AQUI PARA RESPONDER!",
+                    "outgoingEdgeId": "mdm32pl2wtqmghq4v5q5sna0"
+                  }
+                ],
+                "groupId": "cxb62ppwd3mmyifuk5bkusze",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                },
+                "outgoingEdgeId": "pgb7v3hhrajzl1tmi7barz4u"
+              }
+            ],
+            "graphCoordinates": {
+              "x": -1434.92,
+              "y": 23.22
+            }
+          },
+          {
+            "id": "j252raph2ihe1jm76s83d7r6",
+            "title": "",
+            "blocks": [
+              {
+                "id": "jojmvnfqjdbkzqbau51rv7hj",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Qual seu Nome?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "j252raph2ihe1jm76s83d7r6"
+              },
+              {
+                "id": "px5jpgbf2cr1noiz2y5yk0bh",
+                "type": "text input",
+                "groupId": "j252raph2ihe1jm76s83d7r6",
+                "options": {
+                  "isLong": false,
+                  "labels": {
+                    "button": "Enviar",
+                    "placeholder": "digite seu nome..."
+                  },
+                  "variableId": "vprp91gkcj6ooz2wteh9qrvjn"
+                }
+              },
+              {
+                "id": "p72v7j6oia4oy91v9dwbeind",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": " {{NOME}} Qual sua idade?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "j252raph2ihe1jm76s83d7r6"
+              },
+              {
+                "id": "e0jb75x34q9bbuxx5zeh5ajz",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "zbr1kokcgtwyhyihg3wvpsol",
+                    "type": 0,
+                    "blockId": "e0jb75x34q9bbuxx5zeh5ajz",
+                    "content": "18 - 29 anos"
+                  },
+                  {
+                    "id": "yc3s8bkgfaxrzneaglom9aga",
+                    "type": 0,
+                    "blockId": "e0jb75x34q9bbuxx5zeh5ajz",
+                    "content": "30 - 45 anos"
+                  },
+                  {
+                    "id": "w8zqoyey4twitlwsskgjp3ny",
+                    "type": 0,
+                    "blockId": "e0jb75x34q9bbuxx5zeh5ajz",
+                    "content": "Mais de 45 anos"
+                  }
+                ],
+                "groupId": "j252raph2ihe1jm76s83d7r6",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                }
+              },
+              {
+                "id": "fzfumyw7ixn08k4jnwnxssas",
+                "type": "Wait",
+                "groupId": "j252raph2ihe1jm76s83d7r6",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "fgexvn1t7uyhr3sl9uzn6l4c",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Você trabalha em pé durante muitas horas?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "j252raph2ihe1jm76s83d7r6"
+              },
+              {
+                "id": "wzojls6wqw1y842otqa9mmdf",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "du63q9hu9tbiw7sqwax6gkh0",
+                    "type": 0,
+                    "blockId": "wzojls6wqw1y842otqa9mmdf",
+                    "content": "Sim"
+                  },
+                  {
+                    "id": "vn25pxlpqox8wna97i6bxehd",
+                    "type": 0,
+                    "blockId": "wzojls6wqw1y842otqa9mmdf",
+                    "content": "Não "
+                  }
+                ],
+                "groupId": "j252raph2ihe1jm76s83d7r6",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                }
+              },
+              {
+                "id": "bwxvnsfkrlp84rf5y670gejr",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Costuma sentir as pernas pesadas?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "j252raph2ihe1jm76s83d7r6"
+              },
+              {
+                "id": "kep8fk1ald8ssrqfb2bmvbjg",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "d8hb92zqqbap9hzo99ww7uif",
+                    "type": 0,
+                    "blockId": "kep8fk1ald8ssrqfb2bmvbjg",
+                    "content": "Não, nunca"
+                  },
+                  {
+                    "id": "jp1unn27z1rqr7bwp6xgtewc",
+                    "type": 0,
+                    "blockId": "kep8fk1ald8ssrqfb2bmvbjg",
+                    "content": "Ocasionalmente"
+                  },
+                  {
+                    "id": "bh8zevcy1neyw3g3stn2yy3w",
+                    "type": 0,
+                    "blockId": "kep8fk1ald8ssrqfb2bmvbjg",
+                    "content": "Frequentemente"
+                  },
+                  {
+                    "id": "e69yzdf56nd4s7csgi1gyjok",
+                    "type": 0,
+                    "blockId": "kep8fk1ald8ssrqfb2bmvbjg",
+                    "content": "Quase sempre (dor considerável)"
+                  }
+                ],
+                "groupId": "j252raph2ihe1jm76s83d7r6",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                }
+              },
+              {
+                "id": "h6hv34yxnf0um4pn0qzbxbxt",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/ovovkfqz51w6j9ph4fjx6dsr/blocks/h6hv34yxnf0um4pn0qzbxbxt?v=1690821998800"
+                },
+                "groupId": "j252raph2ihe1jm76s83d7r6"
+              },
+              {
+                "id": "tqrx408qz0zt8ecoigbemlvv",
+                "type": "Wait",
+                "groupId": "j252raph2ihe1jm76s83d7r6",
+                "options": {
+                  "secondsToWaitFor": "8"
+                }
+              },
+              {
+                "id": "ezrop46ow1wzwhkrngb1ac3e",
+                "type": "image",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/nct1d3hje08dpillfriumlrk/blocks/ezrop46ow1wzwhkrngb1ac3e?v=1689894231604"
+                },
+                "groupId": "j252raph2ihe1jm76s83d7r6"
+              },
+              {
+                "id": "ep3y54bihou14gpgthwg09fx",
+                "type": "Wait",
+                "groupId": "j252raph2ihe1jm76s83d7r6",
+                "options": {
+                  "secondsToWaitFor": "4"
+                }
+              },
+              {
+                "id": "jp54kysuby9qob943t2p2ejh",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/ovovkfqz51w6j9ph4fjx6dsr/blocks/jp54kysuby9qob943t2p2ejh?v=1690822180775"
+                },
+                "groupId": "j252raph2ihe1jm76s83d7r6"
+              },
+              {
+                "id": "spg2xvw7ec28gd07g7yk5ru9",
+                "type": "Wait",
+                "groupId": "j252raph2ihe1jm76s83d7r6",
+                "options": {
+                  "secondsToWaitFor": "13"
+                }
+              },
+              {
+                "id": "oexqndguv5sp4hjnek1nuhjp",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/ovovkfqz51w6j9ph4fjx6dsr/blocks/oexqndguv5sp4hjnek1nuhjp?v=1690822445421"
+                },
+                "groupId": "j252raph2ihe1jm76s83d7r6"
+              },
+              {
+                "id": "rjt9jlnhfu5btag3k5agdnqc",
+                "type": "image",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/nct1d3hje08dpillfriumlrk/blocks/rjt9jlnhfu5btag3k5agdnqc?v=1689898679383"
+                },
+                "groupId": "j252raph2ihe1jm76s83d7r6"
+              },
+              {
+                "id": "qlzpncdli50qn183tmygy5zl",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Você"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "ficaria"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "feliz"
+                        },
+                        {
+                          "text": " com esses resultados?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "j252raph2ihe1jm76s83d7r6"
+              },
+              {
+                "id": "rm3mmniv97u1r6i90hpkc4h1",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "jev2a5fk9q9zyb4d7f80w7ls",
+                    "type": 0,
+                    "blockId": "rm3mmniv97u1r6i90hpkc4h1",
+                    "content": "SIM"
+                  },
+                  {
+                    "id": "z6qlu2gvmek5ravbv8m4hbk9",
+                    "type": 0,
+                    "blockId": "rm3mmniv97u1r6i90hpkc4h1",
+                    "content": "NÃO"
+                  }
+                ],
+                "groupId": "j252raph2ihe1jm76s83d7r6",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                }
+              },
+              {
+                "id": "qgabe8bc82icxs4d0qnrazvx",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Gostaria de "
+                        },
+                        {
+                          "bold": true,
+                          "text": "participar"
+                        },
+                        {
+                          "text": " do meu "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "programa GRATUITO"
+                        },
+                        {
+                          "text": " para S"
+                        },
+                        {
+                          "bold": true,
+                          "text": "umir com os Vazinhos"
+                        },
+                        {
+                          "text": "?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "j252raph2ihe1jm76s83d7r6"
+              },
+              {
+                "id": "c8zvdcs07rxg9q2yckyprsyn",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "cigszfogy5e8w000i07vu0rl",
+                    "type": 0,
+                    "blockId": "c8zvdcs07rxg9q2yckyprsyn",
+                    "content": "CLIQUE AQUI PARA SABER MAIS!",
+                    "outgoingEdgeId": "q2dx3dxyn5qieqffe9ds2yiw"
+                  }
+                ],
+                "groupId": "j252raph2ihe1jm76s83d7r6",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                },
+                "outgoingEdgeId": "gn660aozt5pp6c843shvhk0v"
+              }
+            ],
+            "graphCoordinates": {
+              "x": -1070.31,
+              "y": 22.95
+            }
+          },
+          {
+            "id": "ygf05fudvg2qinl3ocmr6t8z",
+            "title": "",
+            "blocks": [
+              {
+                "id": "jod99kisimo8xbxjd1sfga1q",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Vou te falar sobre os benefícios de participar..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ygf05fudvg2qinl3ocmr6t8z"
+              },
+              {
+                "id": "txkzg3nq7zg9xg4ip5kaicx9",
+                "type": "Wait",
+                "groupId": "ygf05fudvg2qinl3ocmr6t8z",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "f79ru6dedcyjtkkye1yid1v3",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Recuperar a auto estima"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Diminuir o risco de complicações"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅Perder a vergonha das pernas"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Eliminar dores locais"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Se sentir mais jovem"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Evitar cirurgias caras"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Economizar com tratamentos ineficazes"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Sensação de bem estar"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ygf05fudvg2qinl3ocmr6t8z"
+              },
+              {
+                "id": "ajrb9odpovoh1qrju3wubv7r",
+                "type": "Wait",
+                "groupId": "ygf05fudvg2qinl3ocmr6t8z",
+                "options": {
+                  "secondsToWaitFor": "10"
+                }
+              },
+              {
+                "id": "mc3tebssu8a88qt6fe51rldk",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Qual"
+                        },
+                        {
+                          "text": " desses "
+                        },
+                        {
+                          "bold": true,
+                          "text": "benefícios"
+                        },
+                        {
+                          "text": " é o "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "principal"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "para"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "você"
+                        },
+                        {
+                          "text": "?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ygf05fudvg2qinl3ocmr6t8z"
+              },
+              {
+                "id": "wxso3jatsxdjkvnamma6mg4a",
+                "type": "text input",
+                "groupId": "ygf05fudvg2qinl3ocmr6t8z",
+                "options": {
+                  "isLong": false,
+                  "labels": {
+                    "button": "Enviar",
+                    "placeholder": "Digite aqui..."
+                  }
+                },
+                "outgoingEdgeId": "ywal8y2gl6g2ubybaudkbm32"
+              }
+            ],
+            "graphCoordinates": {
+              "x": -248.82,
+              "y": 24.24
+            }
+          },
+          {
+            "id": "lryyzva4dtlh6dhvcrqr1p17",
+            "title": "",
+            "blocks": [
+              {
+                "id": "p5cupe4v26b21aw5ywzi263y",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/ovovkfqz51w6j9ph4fjx6dsr/blocks/p5cupe4v26b21aw5ywzi263y?v=1690822630868"
+                },
+                "groupId": "lryyzva4dtlh6dhvcrqr1p17"
+              },
+              {
+                "id": "hlmvj6as1sn6ofemd56y8qo9",
+                "type": "Wait",
+                "groupId": "lryyzva4dtlh6dhvcrqr1p17",
+                "options": {
+                  "secondsToWaitFor": "10"
+                }
+              },
+              {
+                "id": "joqrj26lqgheb66nnzc5ih55",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Gostaria de "
+                        },
+                        {
+                          "bold": true,
+                          "text": "participar do"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Programa de Zero Varizes?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "lryyzva4dtlh6dhvcrqr1p17"
+              },
+              {
+                "id": "ksowcbx72l551ivc7q7w3zk5",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "jdsas9np961u54ch4447ecp3",
+                    "type": 0,
+                    "blockId": "ksowcbx72l551ivc7q7w3zk5",
+                    "content": "SIM, QUERO PARTICIPAR!"
+                  }
+                ],
+                "groupId": "lryyzva4dtlh6dhvcrqr1p17",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                },
+                "outgoingEdgeId": "qdmpth5oq3dgwzhvuhosxv2n"
+              }
+            ],
+            "graphCoordinates": {
+              "x": 120.55,
+              "y": 23.93
+            }
+          },
+          {
+            "id": "smv2k5bbih2ebtkco9k13q81",
+            "title": "",
+            "blocks": [
+              {
+                "id": "tn2zoescgbr0qrouqo56920u",
+                "type": "Wait",
+                "groupId": "smv2k5bbih2ebtkco9k13q81",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "pc6dvxcxway515alogcmuskb",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/ovovkfqz51w6j9ph4fjx6dsr/blocks/pc6dvxcxway515alogcmuskb?v=1690815605120"
+                },
+                "groupId": "smv2k5bbih2ebtkco9k13q81"
+              },
+              {
+                "id": "ud1b4rjos3d0czl174bwar60",
+                "type": "Wait",
+                "groupId": "smv2k5bbih2ebtkco9k13q81",
+                "options": {
+                  "secondsToWaitFor": "11"
+                }
+              },
+              {
+                "id": "z0vl242hkbwwk31mssaow2wz",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/ovovkfqz51w6j9ph4fjx6dsr/blocks/z0vl242hkbwwk31mssaow2wz?v=1690815863722"
+                },
+                "groupId": "smv2k5bbih2ebtkco9k13q81"
+              },
+              {
+                "id": "h08mdvasimtc3wwg7l8bz7b2",
+                "type": "Wait",
+                "groupId": "smv2k5bbih2ebtkco9k13q81",
+                "options": {
+                  "secondsToWaitFor": "12"
+                }
+              },
+              {
+                "id": "j2z75uos4o28qkoifdiqvue7",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/ovovkfqz51w6j9ph4fjx6dsr/blocks/j2z75uos4o28qkoifdiqvue7?v=1690816071904"
+                },
+                "groupId": "smv2k5bbih2ebtkco9k13q81"
+              },
+              {
+                "id": "fwe1wxcflxctyh2gu28gddxd",
+                "type": "Wait",
+                "groupId": "smv2k5bbih2ebtkco9k13q81",
+                "options": {
+                  "secondsToWaitFor": "12"
+                },
+                "outgoingEdgeId": "rlwht1qk2olua006mqrbv183"
+              }
+            ],
+            "graphCoordinates": {
+              "x": -681.74,
+              "y": 34.29
+            }
+          },
+          {
+            "id": "n4rkbm3duras6a1gtetrn8ij",
+            "title": "",
+            "blocks": [
+              {
+                "id": "l8pk4gsg6qoohui94i3x3ns4",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Vou te "
+                        },
+                        {
+                          "bold": true,
+                          "text": "explicar"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "como"
+                        },
+                        {
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "fazer para "
+                        },
+                        {
+                          "bold": true,
+                          "text": "participar"
+                        },
+                        {
+                          "text": "..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "n4rkbm3duras6a1gtetrn8ij"
+              },
+              {
+                "id": "kkjllqn4mmi6bv0ov759b7ff",
+                "type": "Wait",
+                "groupId": "n4rkbm3duras6a1gtetrn8ij",
+                "options": {
+                  "secondsToWaitFor": "4"
+                }
+              },
+              {
+                "id": "tx5e6xhm7bomztpwvixuwy77",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/ovovkfqz51w6j9ph4fjx6dsr/blocks/tx5e6xhm7bomztpwvixuwy77?v=1690822857939"
+                },
+                "groupId": "n4rkbm3duras6a1gtetrn8ij"
+              },
+              {
+                "id": "od1zom0te9g5sonhv7zsz72e",
+                "type": "Wait",
+                "groupId": "n4rkbm3duras6a1gtetrn8ij",
+                "options": {
+                  "secondsToWaitFor": "9"
+                }
+              },
+              {
+                "id": "oq8rqji5w36j7onfrijzubmu",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/ovovkfqz51w6j9ph4fjx6dsr/blocks/oq8rqji5w36j7onfrijzubmu?v=1690822980663"
+                },
+                "groupId": "n4rkbm3duras6a1gtetrn8ij"
+              },
+              {
+                "id": "gn1jx5x2gpcmz5j1e0lcfc7a",
+                "type": "Wait",
+                "groupId": "n4rkbm3duras6a1gtetrn8ij",
+                "options": {
+                  "secondsToWaitFor": "13"
+                }
+              },
+              {
+                "id": "obxbw223krxbabw4yaew30ak",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/ovovkfqz51w6j9ph4fjx6dsr/blocks/obxbw223krxbabw4yaew30ak?v=1690823061154"
+                },
+                "groupId": "n4rkbm3duras6a1gtetrn8ij"
+              },
+              {
+                "id": "b5vjefb4ktfxy7uk2v5fvwje",
+                "type": "Wait",
+                "groupId": "n4rkbm3duras6a1gtetrn8ij",
+                "options": {
+                  "secondsToWaitFor": "11"
+                }
+              },
+              {
+                "id": "n4kgp45i37secojr86g607wm",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/ovovkfqz51w6j9ph4fjx6dsr/blocks/n4kgp45i37secojr86g607wm?v=1690823234764"
+                },
+                "groupId": "n4rkbm3duras6a1gtetrn8ij"
+              },
+              {
+                "id": "o6puth19ig31g2fzydnoxnr7",
+                "type": "Wait",
+                "groupId": "n4rkbm3duras6a1gtetrn8ij",
+                "options": {
+                  "secondsToWaitFor": "24"
+                }
+              },
+              {
+                "id": "wors2mzhouj853aauwpps2yo",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/ovovkfqz51w6j9ph4fjx6dsr/blocks/wors2mzhouj853aauwpps2yo?v=1690823314372"
+                },
+                "groupId": "n4rkbm3duras6a1gtetrn8ij"
+              },
+              {
+                "id": "n1802kj0kas6ryirunlfltmo",
+                "type": "Wait",
+                "groupId": "n4rkbm3duras6a1gtetrn8ij",
+                "options": {
+                  "secondsToWaitFor": "16"
+                }
+              },
+              {
+                "id": "amatlofu84zserm0xtozexf8",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/ovovkfqz51w6j9ph4fjx6dsr/blocks/amatlofu84zserm0xtozexf8?v=1690823578954"
+                },
+                "groupId": "n4rkbm3duras6a1gtetrn8ij"
+              },
+              {
+                "id": "r4f7hp5vosdeptsma3p6fef1",
+                "type": "Wait",
+                "groupId": "n4rkbm3duras6a1gtetrn8ij",
+                "options": {
+                  "secondsToWaitFor": "17"
+                }
+              },
+              {
+                "id": "duf3o3csebswz69te4xcmrlj",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "w8gj2t5299ltgrr31lhc8dbh",
+                    "type": 0,
+                    "blockId": "duf3o3csebswz69te4xcmrlj",
+                    "content": "QUERO PARTICIPAR"
+                  }
+                ],
+                "groupId": "n4rkbm3duras6a1gtetrn8ij",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                }
+              },
+              {
+                "id": "vq2wqekzomicwqw9i6kigwwq",
+                "type": "Redirect",
+                "groupId": "n4rkbm3duras6a1gtetrn8ij",
+                "options": {
+                  "url": "https://pay.kiwify.com.br/lMSQDz3",
+                  "isNewTab": false
+                }
+              }
+            ],
+            "graphCoordinates": {
+              "x": 569.68,
+              "y": 21
+            }
+          },
+          {
+            "id": "fggn6haqy37t3gtz72vwurk1",
+            "title": "Group #8",
+            "blocks": [
+              {
+                "id": "hs3irbu7ogselzx19d2e5qap",
+                "type": "Pixel",
+                "groupId": "fggn6haqy37t3gtz72vwurk1",
+                "options": {
+                  "pixelId": "1060682141611965"
+                },
+                "outgoingEdgeId": "a40txffowwu9okt3xchm7i3m"
+              }
+            ],
+            "graphCoordinates": {
+              "x": -1983.54,
+              "y": 1088.5
+            }
+          },
+          {
+            "id": "jupzwc59uehcm8pa54d0xx3s",
+            "title": "Group #8",
+            "blocks": [
+              {
+                "id": "c2u9uuhps1boy5j75mhz3wn3",
+                "type": "Pixel",
+                "groupId": "jupzwc59uehcm8pa54d0xx3s",
+                "options": {
+                  "name": "viram resultados",
+                  "params": [
+                    {
+                      "id": "uz8w3sabxnibq99rvz4zvwv3"
+                    }
+                  ],
+                  "pixelId": "1060682141611965",
+                  "eventType": "Custom"
+                },
+                "outgoingEdgeId": "baonzaf4neavz2tltogylfa9"
+              }
+            ],
+            "graphCoordinates": {
+              "x": -1549.23,
+              "y": 2167.87
+            }
+          },
+          {
+            "id": "na08upz1offtle83wgxwlrre",
+            "title": "Group #9",
+            "blocks": [
+              {
+                "id": "ay00vt0bze83blv5ldf1axv8",
+                "type": "Pixel",
+                "groupId": "na08upz1offtle83wgxwlrre",
+                "options": {
+                  "name": "concluir compra",
+                  "params": [
+                    {
+                      "id": "pjk32c9iqip2af31mybydibv"
+                    }
+                  ],
+                  "pixelId": "1060682141611965",
+                  "eventType": "Custom"
+                },
+                "outgoingEdgeId": "kmu23iysl95or9d3y02876yv"
+              }
+            ],
+            "graphCoordinates": {
+              "x": 188.09,
+              "y": 1205.65
+            }
+          }
+        ],
+        "variables": [
+          {
+            "id": "vprp91gkcj6ooz2wteh9qrvjn",
+            "name": "NOME"
+          },
+          {
+            "id": "vylhptebpxvgxs98ah9vf9q1p",
+            "name": "PESO"
+          },
+          {
+            "id": "vpel0viottucscnen8zdlejaf",
+            "name": "IDADE"
+          },
+          {
+            "id": "vlnuxmidqsek5hmsy83v55c7h",
+            "name": "PERDER"
+          },
+          {
+            "id": "va2xubuj795oo62rxwti3hudj",
+            "name": "TEMPO"
+          }
+        ],
+        "edges": [
+          {
+            "id": "nuvuo5skur6uxci2wprxdare",
+            "to": {
+              "blockId": "kl16bf94mpvm7ux0w9yhaksc",
+              "groupId": "cxb62ppwd3mmyifuk5bkusze"
+            },
+            "from": {
+              "blockId": "cx5iel8jxfo4caorf8rnjiw0",
+              "groupId": "ubme05o8bypvyx37e3otsxt9"
+            }
+          },
+          {
+            "id": "qdmpth5oq3dgwzhvuhosxv2n",
+            "to": {
+              "blockId": "l8pk4gsg6qoohui94i3x3ns4",
+              "groupId": "n4rkbm3duras6a1gtetrn8ij"
+            },
+            "from": {
+              "blockId": "ksowcbx72l551ivc7q7w3zk5",
+              "groupId": "lryyzva4dtlh6dhvcrqr1p17"
+            }
+          },
+          {
+            "id": "kmu23iysl95or9d3y02876yv",
+            "to": {
+              "blockId": "duf3o3csebswz69te4xcmrlj",
+              "groupId": "n4rkbm3duras6a1gtetrn8ij"
+            },
+            "from": {
+              "blockId": "ay00vt0bze83blv5ldf1axv8",
+              "groupId": "na08upz1offtle83wgxwlrre"
+            }
+          },
+          {
+            "id": "a40txffowwu9okt3xchm7i3m",
+            "to": {
+              "blockId": "csehritnjnat8lskqyahz8lm",
+              "groupId": "cxb62ppwd3mmyifuk5bkusze"
+            },
+            "from": {
+              "blockId": "hs3irbu7ogselzx19d2e5qap",
+              "groupId": "fggn6haqy37t3gtz72vwurk1"
+            }
+          },
+          {
+            "id": "pgb7v3hhrajzl1tmi7barz4u",
+            "to": {
+              "groupId": "j252raph2ihe1jm76s83d7r6"
+            },
+            "from": {
+              "blockId": "csehritnjnat8lskqyahz8lm",
+              "groupId": "cxb62ppwd3mmyifuk5bkusze"
+            }
+          },
+          {
+            "id": "mdm32pl2wtqmghq4v5q5sna0",
+            "to": {
+              "groupId": "j252raph2ihe1jm76s83d7r6"
+            },
+            "from": {
+              "itemId": "y4p4kv7krxatlqj66a3480xf",
+              "blockId": "csehritnjnat8lskqyahz8lm",
+              "groupId": "cxb62ppwd3mmyifuk5bkusze"
+            }
+          },
+          {
+            "id": "baonzaf4neavz2tltogylfa9",
+            "to": {
+              "blockId": "c8zvdcs07rxg9q2yckyprsyn",
+              "groupId": "j252raph2ihe1jm76s83d7r6"
+            },
+            "from": {
+              "blockId": "c2u9uuhps1boy5j75mhz3wn3",
+              "groupId": "jupzwc59uehcm8pa54d0xx3s"
+            }
+          },
+          {
+            "id": "gn660aozt5pp6c843shvhk0v",
+            "to": {
+              "blockId": "tn2zoescgbr0qrouqo56920u",
+              "groupId": "smv2k5bbih2ebtkco9k13q81"
+            },
+            "from": {
+              "blockId": "c8zvdcs07rxg9q2yckyprsyn",
+              "groupId": "j252raph2ihe1jm76s83d7r6"
+            }
+          },
+          {
+            "id": "q2dx3dxyn5qieqffe9ds2yiw",
+            "to": {
+              "groupId": "smv2k5bbih2ebtkco9k13q81"
+            },
+            "from": {
+              "itemId": "cigszfogy5e8w000i07vu0rl",
+              "blockId": "c8zvdcs07rxg9q2yckyprsyn",
+              "groupId": "j252raph2ihe1jm76s83d7r6"
+            }
+          },
+          {
+            "id": "rlwht1qk2olua006mqrbv183",
+            "to": {
+              "groupId": "ygf05fudvg2qinl3ocmr6t8z"
+            },
+            "from": {
+              "blockId": "fwe1wxcflxctyh2gu28gddxd",
+              "groupId": "smv2k5bbih2ebtkco9k13q81"
+            }
+          },
+          {
+            "id": "ywal8y2gl6g2ubybaudkbm32",
+            "to": {
+              "groupId": "lryyzva4dtlh6dhvcrqr1p17"
+            },
+            "from": {
+              "blockId": "wxso3jatsxdjkvnamma6mg4a",
+              "groupId": "ygf05fudvg2qinl3ocmr6t8z"
+            }
+          }
+        ],
+        "theme": {
+          "chat": {
+            "inputs": {
+              "color": "#000000",
+              "backgroundColor": "#FFFFFF",
+              "placeholderColor": "#28292a"
+            },
+            "buttons": {
+              "color": "#FFFFFF",
+              "backgroundColor": "#128C7E"
+            },
+            "roundness": "medium",
+            "hostAvatar": {
+              "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/nct1d3hje08dpillfriumlrk/hostAvatar?v=1689903198920",
+              "isEnabled": true
+            },
+            "guestAvatar": {
+              "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/nct1d3hje08dpillfriumlrk/guestAvatar?v=1689903279688",
+              "isEnabled": false
+            },
+            "hostBubbles": {
+              "color": "#303235",
+              "backgroundColor": "#FFFFFF"
+            },
+            "guestBubbles": {
+              "color": "#303235",
+              "backgroundColor": "#e1ffc7"
+            }
+          },
+          "general": {
+            "font": "Open Sans",
+            "background": {
+              "type": "Image",
+              "content": "https://s3.fr-par.scw.cloud/typebot/public/typebots/cli88mae30010mh0f0yzjqn48/background?v=1685470080750"
+            }
+          },
+          "customCss": ".typebot-chat-view > .flex:first-child {\n    padding-top: 30px;\n}\n\n.typebot-input {\n    position: fixed;\n    bottom: 0;\n    align-items: center;\n    z-index: 999;\n    right: 0;\n}\n\n.typebot-input .typebot-button {\n    background: #008a7c;\n    border-radius: 50%;\n    color: #fff;\n    position: relative;\n    width: 50px;\n    height: 50px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n\n.typebot-container {\n    background-size: initial!important;\n    background-repeat: repeat-x!important;\n}\n\n.typebot-host-bubble>.bubble-typing {\n  border-radius: 0 5px 5px 5px;\n}\n\n.typebot-host-bubble>.bubble-typing:after {\n    position: absolute;\n    content: \"\";\n    width: 0;\n    height: 0;\n    border-style: solid;\n    border-width: 0px 10px 10px 0;\n    border-color: transparent #fff transparent transparent;\n    top: 0;\n    left: -10px;\n}\n\n.typebot-guest-bubble {\n  position: relative;\n  border-radius: 5px 0 5px 5px;\n}\n\n.typebot-guest-bubble:after {\n  position: absolute;\n  content: \"\";\n  width: 0;\n  height: 0;\n  border-style: solid;\n}\n\n.typebot-guest-bubble:after {\n    border-width: 0px 0 10px 10px;\n    border-color: transparent transparent transparent #e1ffc7;\n    top: 0;\n    right: -10px;\n    border-style: solid;\n}\n\niframe[src=\"\"] {\n  position: fixed;\n  top: 0;\n  left: 0;\n  display: relative;\n  width: 100%;\n  height: 100% !important;\n  z-index: 999999;\n  border: none;\n  padding: 0;\n  margin: 0;\n}\n\na#lite-badge {\n  display: none!important;\n}"
+        },
+        "settings": {
+          "general": {
+            "rememberUser": {
+              "isEnabled": false
+            },
+            "isBrandingEnabled": false,
+            "isInputPrefillEnabled": false,
+            "isHideQueryParamsEnabled": false
+          },
+          "metadata": {
+            "title": "WhatsApp Web",
+            "imageUrl": "https://images.unsplash.com/photo-1611077544170-be90a2f68add?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0MjU2MDR8MHwxfHNlYXJjaHwyN3x8d2VpZ2h0JTIwbG9zc3xlbnwwfDB8fHwxNjg2MjAzMzA4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+            "favIconUrl": "https://s3.fr-par.scw.cloud/typebot/public/typebots/fwlzp9t2f2xjx6o1ru5u4i4z/favIcon?v=1686203350295",
+            "description": "Faça agora sua consulta com Dra. Lara no WhatsApp.",
+            "customHeadCode": "<!-- Facebook Pixel Code -->\n<script>\n   !function(f,b,e,v,n,t,s)\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n    n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n    n.queue=[];t=b.createElement(e);t.async=!0;\n    t.src=v;s=b.getElementsByTagName(e)[0];\n    s.parentNode.insertBefore(t,s)}(window, document,'script',\n    'https://connect.facebook.net/en_US/fbevents.js');\n    fbq('init', '1060682141611965');\n    fbq('track', 'PageView');\n    fbq('track', 'ViewContent');\n \n</script>\n<!-- End Facebook Pixel Code -->\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css\">\n<style>\n  .hide {\n    display: none!important;\n  }\n  typebot-standard {\n    position: relative;\n    z-index: 9999;\n  }\n  #__next {\n    position: relative;\n    z-index: 9999;\n}\n  /* User Bar */\n.user-bar {\n  width: 100%;\n  height: 55px;\n  background: #005e54;\n  color: #fff;\n  padding: 0;\n  font-size: 24px;\n  position: fixed;\n  z-index: 99999;\n  display: block;\n  top: 0;\n}\n\n.user-bar:after {\n  content: \"\";\n  display: table;\n  clear: both;\n}\n\n.user-bar div {\n    float: left;\n    transform: translateY(-50%);\n    position: relative;\n    top: 50%;\n    margin-left: 10px;\n}\n\n.user-bar .actions {\n  float: right;\n  margin: 0 0 0 20px;\n}\n\n.user-bar .actions.more {\n  margin: 0 12px 0 32px;\n}\n\n.user-bar .actions.attachment {\n  margin: 0 0 0 30px;\n}\n\n.user-bar .actions.attachment i {\n  display: block;\n  transform: rotate(-45deg);\n}\n\n.user-bar .avatar {\n  margin: 0 0 0 5px;\n  width: 36px;\n  height: 36px;\n}\n\n.user-bar .avatar img {\n  border-radius: 50%;\n  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1);\n  display: block;\n  width: 100%;\n}\n\n.user-bar .name {\n  font-size: 17px;\n  font-weight: 600;\n  text-overflow: ellipsis;\n  letter-spacing: 0.3px;\n  margin: 0 0 0 8px;\n  overflow: hidden;\n  white-space: nowrap;\n  width: 150px;\n}\n\n.user-bar .status {\n  display: block;\n  font-size: 13px;\n  font-weight: 400;\n  letter-spacing: 0;\n}\n</style>\n\n<script>\nfunction criarBarra() {\n  var userBar = document.createElement(\"div\");\n  userBar.className = \"user-bar\";\n\n  var backButton = document.createElement(\"div\");\n  backButton.className = \"back\";\n  backButton.innerHTML = '<i class=\"zmdi zmdi-arrow-left\"></i>';\n\n  var avatar = document.createElement(\"div\");\n  avatar.className = \"avatar\";\n  avatar.innerHTML = '<img src=\"https://i.postimg.cc/CLhG1yPT/D7237-F7-B-E893-441-E-B1-A4-4863-D90-BAA60.png\" alt=\"Dra. Laura Aguiar\">';\n\n  var name = document.createElement(\"div\");\n  name.className = \"name\";\n  name.innerHTML = '<span>Dra. Laura Aguiar</span><span class=\"status\">online</span>';\n\n  var moreActions = document.createElement(\"div\");\n  moreActions.className = \"actions more\";\n  moreActions.innerHTML = '<i class=\"zmdi zmdi-more-vert\"></i>';\n\n  var attachmentAction = document.createElement(\"div\");\n  attachmentAction.className = \"actions attachment\";\n  attachmentAction.innerHTML = '<i class=\"zmdi zmdi-attachment-alt\"></i>';\n\n  var phoneAction = document.createElement(\"div\");\n  phoneAction.className = \"actions\";\n  phoneAction.innerHTML = '<i class=\"zmdi zmdi-phone\"></i>';\n\n  userBar.appendChild(backButton);\n  userBar.appendChild(avatar);\n  userBar.appendChild(name);\n  userBar.appendChild(moreActions);\n  userBar.appendChild(attachmentAction);\n  userBar.appendChild(phoneAction);\n\n  var elementoPai = document.querySelector(\"#__next\");\n  if (elementoPai) {\n    elementoPai.insertBefore(userBar, elementoPai.firstChild);\n  }\n}\n\ncriarBarra();\n</script>\n"
+          },
+          "typingEmulation": {
+            "speed": 300,
+            "enabled": true,
+            "maxDelay": 1.5
+          }
+        }
+      }
+    

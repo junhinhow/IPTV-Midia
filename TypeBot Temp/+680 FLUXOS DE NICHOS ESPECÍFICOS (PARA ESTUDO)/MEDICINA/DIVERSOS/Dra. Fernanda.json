@@ -1,0 +1,1750 @@
+
+{
+  "id": "cll2m29fc00bwlb0f8rxn8rky",
+  "version": "3",
+  "createdAt": "hlox0fa13olceqpxwpmnfyi1",
+  "groups": [
+    {
+            "id": "rdrc5p4bxg6z7rsourqo98cg",
+            "title": "Start",
+            "blocks": [
+              {
+                "id": "conk0jvl9pwspemyt2wfyb40",
+                "type": "start",
+                "label": "Start",
+                "groupId": "rdrc5p4bxg6z7rsourqo98cg",
+                "outgoingEdgeId": "d8g2ro61ab6cdndimxmjej01"
+              }
+            ],
+            "graphCoordinates": {
+              "x": -1804.43,
+              "y": -11.61
+            }
+          },
+          {
+            "id": "kxf0bn7sfoe9ojizcsyra1q9",
+            "title": "",
+            "blocks": [
+              {
+                "id": "wmx86ph08nomq5vihmjwsoip",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "[VOCÊ"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "FOI"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "SELECIONADA]"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "ESSA "
+                        },
+                        {
+                          "bold": true,
+                          "text": "CONSULTA É",
+                          "underline": true
+                        },
+                        {
+                          "text": " ",
+                          "underline": true
+                        },
+                        {
+                          "bold": true,
+                          "text": "GRATUITA",
+                          "underline": true
+                        },
+                        {
+                          "text": "!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "kxf0bn7sfoe9ojizcsyra1q9"
+              },
+              {
+                "id": "ayubofztwdbkzjlhjz3cujy8",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Olá, tudo bem com você? Meu nome é Dra. Fernanda..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "kxf0bn7sfoe9ojizcsyra1q9"
+              },
+              {
+                "id": "gdxgclqhdq0mli0qsrwmdxox",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Sou Nutricionista há 9 Anos e "
+                        },
+                        {
+                          "bold": true,
+                          "text": "Criadora Oficial do Chá Bariátrico "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "kxf0bn7sfoe9ojizcsyra1q9"
+              },
+              {
+                "id": "dmbpdzo239fdmi0mzwsx6zly",
+                "type": "Wait",
+                "groupId": "kxf0bn7sfoe9ojizcsyra1q9",
+                "options": {
+                  "secondsToWaitFor": "6"
+                }
+              },
+              {
+                "id": "v5bidb8w8hg2hwgv9q9678ok",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/m435v6oefxku0cm0oyzcg2mb?v=1689945132866"
+                },
+                "groupId": "kxf0bn7sfoe9ojizcsyra1q9"
+              },
+              {
+                "id": "svlxenm6wz4l2iria5fcfcf8",
+                "type": "Wait",
+                "groupId": "kxf0bn7sfoe9ojizcsyra1q9",
+                "options": {
+                  "secondsToWaitFor": "8"
+                }
+              },
+              {
+                "id": "gysupd1zy5jpxqnvfq2ntvwk",
+                "type": "image",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/g91i1t2tlt9qkl5dvxggin3o?v=1689945168975"
+                },
+                "groupId": "kxf0bn7sfoe9ojizcsyra1q9"
+              },
+              {
+                "id": "d20cuc48mru2qmg38jbo96eq",
+                "type": "Wait",
+                "groupId": "kxf0bn7sfoe9ojizcsyra1q9",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "o8chght477fpssbz7crr5qqt",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/r0omldifbd4w4lcem6fay06q?v=1689945265604"
+                },
+                "groupId": "kxf0bn7sfoe9ojizcsyra1q9"
+              },
+              {
+                "id": "w13mhfi4crkfmnrv5eg0lgwi",
+                "type": "Wait",
+                "groupId": "kxf0bn7sfoe9ojizcsyra1q9",
+                "options": {
+                  "secondsToWaitFor": "12"
+                }
+              },
+              {
+                "id": "c1yer4k1yh5wsxdgbkwb8exx",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "cigszfogy5e8w000i07vu0rl",
+                    "type": 0,
+                    "blockId": "c8zvdcs07rxg9q2yckyprsyn",
+                    "content": "Sim, Tenho Interesse!",
+                    "outgoingEdgeId": "hjponpybgg8h2nw5vd8pjvz3"
+                  }
+                ],
+                "groupId": "kxf0bn7sfoe9ojizcsyra1q9",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                },
+                "outgoingEdgeId": "wpfwc66wifddvawpq88svxzh"
+              }
+            ],
+            "graphCoordinates": {
+              "x": -1434.92,
+              "y": 23.22
+            }
+          },
+          {
+            "id": "di8ujzv7i6xnnkxd3l5bi7bm",
+            "title": "",
+            "blocks": [
+              {
+                "id": "gfco7lqti3qvgugybqu48g6n",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "A "
+                        },
+                        {
+                          "bold": true,
+                          "text": "Tatiane "
+                        },
+                        {
+                          "text": "e a "
+                        },
+                        {
+                          "bold": true,
+                          "text": "Marcia "
+                        },
+                        {
+                          "text": "participaram do programa de emagrecimento..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "di8ujzv7i6xnnkxd3l5bi7bm"
+              },
+              {
+                "id": "puqc99bimgnxq1g493t693az",
+                "type": "Wait",
+                "groupId": "di8ujzv7i6xnnkxd3l5bi7bm",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "xmvmdt6we7n7wn1g6s9830xj",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/b67yqw5t665wip4u448klheu?v=1689946269230"
+                },
+                "groupId": "di8ujzv7i6xnnkxd3l5bi7bm"
+              },
+              {
+                "id": "quo0pcchg7tbevbc63nlkwgw",
+                "type": "Wait",
+                "groupId": "di8ujzv7i6xnnkxd3l5bi7bm",
+                "options": {
+                  "secondsToWaitFor": "12"
+                }
+              },
+              {
+                "id": "zi4uyu7yb4n0dhafceq42ilg",
+                "type": "image",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/s7129m0k7pqokifo0fjoy791?v=1689946375001"
+                },
+                "groupId": "di8ujzv7i6xnnkxd3l5bi7bm"
+              },
+              {
+                "id": "a7b88lu215b2axs0jimx0ksp",
+                "type": "Wait",
+                "groupId": "di8ujzv7i6xnnkxd3l5bi7bm",
+                "options": {
+                  "secondsToWaitFor": "10"
+                }
+              },
+              {
+                "id": "fvq13rg7pdxh9fppiwinphpd",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/pt25tv657uxw5omj9h3gm0ia?v=1689946414755"
+                },
+                "groupId": "di8ujzv7i6xnnkxd3l5bi7bm"
+              },
+              {
+                "id": "ibff549bbaoytpo4zycwwz91",
+                "type": "Wait",
+                "groupId": "di8ujzv7i6xnnkxd3l5bi7bm",
+                "options": {
+                  "secondsToWaitFor": "13"
+                }
+              },
+              {
+                "id": "vu90uo66m7mem9y3ee3mhcek",
+                "type": "image",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/ovh4g5fam8qqrdza2ggvxv3q?v=1689946462578"
+                },
+                "groupId": "di8ujzv7i6xnnkxd3l5bi7bm"
+              },
+              {
+                "id": "fe6cnd3mywj1ydhfru9uxqev",
+                "type": "Wait",
+                "groupId": "di8ujzv7i6xnnkxd3l5bi7bm",
+                "options": {
+                  "secondsToWaitFor": "10"
+                }
+              },
+              {
+                "id": "ldr53586v61s9tdptht4ee1p",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/dcr2cjfgoddpafh2q4b9p0pz?v=1689946548203"
+                },
+                "groupId": "di8ujzv7i6xnnkxd3l5bi7bm"
+              },
+              {
+                "id": "r68xi7pmzitnq22wds24y5vz",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Você"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "ficaria"
+                        },
+                        {
+                          "text": " "
+                        },
+                        {
+                          "bold": true,
+                          "text": "feliz"
+                        },
+                        {
+                          "text": " com esses resultados?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "di8ujzv7i6xnnkxd3l5bi7bm"
+              },
+              {
+                "id": "z5ha692zppob71f82sccvzu1",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "cqeo785e0p8lc035hjwoga3s",
+                    "type": 0,
+                    "blockId": "ar5ypkxn4betjz3gdx5l5lys",
+                    "content": "Sim, muito!!!",
+                    "outgoingEdgeId": "dchwkwpztu7x09zfmv3q2xlb"
+                  }
+                ],
+                "groupId": "di8ujzv7i6xnnkxd3l5bi7bm",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                }
+              }
+            ],
+            "graphCoordinates": {
+              "x": -644.02,
+              "y": 24.34
+            }
+          },
+          {
+            "id": "d79udp26uz8zead2jxyomouy",
+            "title": "",
+            "blocks": [
+              {
+                "id": "ucr0me3xnn1pgv79bbp7oow3",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Que legal!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "khmasky8bwqcke9qj7uqfh9u",
+                "type": "Wait",
+                "groupId": "d79udp26uz8zead2jxyomouy",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "jt23vz0zdltlfembciwu5o88",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Quero te falar que, com "
+                        },
+                        {
+                          "bold": true,
+                          "text": "meu auxilio"
+                        },
+                        {
+                          "text": " e "
+                        },
+                        {
+                          "bold": true,
+                          "text": "sua dedicação"
+                        },
+                        {
+                          "text": " isso "
+                        },
+                        {
+                          "bold": true,
+                          "text": "será possível!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "hr1imgfeghxqujd9t0yucsun",
+                "type": "Wait",
+                "groupId": "d79udp26uz8zead2jxyomouy",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "fa7x6vc7sym4xz4b2coso0mo",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Vou te explicar como funciona o "
+                        },
+                        {
+                          "bold": true,
+                          "text": "Programa de Emagrecimento"
+                        },
+                        {
+                          "text": ", ok?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "ezo0mcvy9favw81qot3gb9hs",
+                "type": "Wait",
+                "groupId": "d79udp26uz8zead2jxyomouy",
+                "options": {
+                  "secondsToWaitFor": "5"
+                }
+              },
+              {
+                "id": "frmqh0ap63a80e3gku6ppp45",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "É "
+                        },
+                        {
+                          "bold": true,
+                          "text": "bem simples e fácil"
+                        },
+                        {
+                          "text": " de executar nosso programa..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "nqa1dzf0e7h5418tsv9bapfa",
+                "type": "Wait",
+                "groupId": "d79udp26uz8zead2jxyomouy",
+                "options": {
+                  "secondsToWaitFor": "10"
+                }
+              },
+              {
+                "id": "kl0jmnk9eu6vkecyqdxxbjya",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Você receberá um e-book onde se encontra todo o passo a passo para fazer o "
+                        },
+                        {
+                          "bold": true,
+                          "text": "Chá Bariátrico!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "wtgw7xict392yd3uirf7m10m",
+                "type": "Wait",
+                "groupId": "d79udp26uz8zead2jxyomouy",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "t9h1q5ws7umc8khk28uyl496",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Com a receita em mãos, você poderá utilizar o Chá "
+                        },
+                        {
+                          "bold": true,
+                          "text": "conforme está descrito"
+                        },
+                        {
+                          "text": " no e-book.\nNão tem "
+                        },
+                        {
+                          "bold": true,
+                          "text": "segredo"
+                        },
+                        {
+                          "text": ", nem "
+                        },
+                        {
+                          "bold": true,
+                          "text": "truque"
+                        },
+                        {
+                          "text": ", nem "
+                        },
+                        {
+                          "bold": true,
+                          "text": "mágica"
+                        },
+                        {
+                          "text": ". Simplesmente é só "
+                        },
+                        {
+                          "bold": true,
+                          "text": "seguir todo o passo a passo corretamente"
+                        },
+                        {
+                          "text": " e ver seu "
+                        },
+                        {
+                          "bold": true,
+                          "text": "resultad"
+                        },
+                        {
+                          "text": "o de perto."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "f3m3r587fns6v2qpk06nbdy0",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Se você não está acreditando no potencial do chá, olha aqui o depoimento da "
+                        },
+                        {
+                          "bold": true,
+                          "text": "Rose"
+                        },
+                        {
+                          "text": "..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "g6lfs2qqwfbwmwcrydpgtluq",
+                "type": "Wait",
+                "groupId": "d79udp26uz8zead2jxyomouy",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "v3aav6gn8ymwfdle11v3v2y3",
+                "type": "image",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/k6imd1qf3wkidzaymbpou9ac?v=1689947009520"
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "eim1z03iuejh5dpkr18jcbur",
+                "type": "Wait",
+                "groupId": "d79udp26uz8zead2jxyomouy",
+                "options": {
+                  "secondsToWaitFor": "5"
+                }
+              },
+              {
+                "id": "hdytrjaov9ky2xd2lla9rf4a",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Esta é a "
+                        },
+                        {
+                          "bold": true,
+                          "text": "Martina"
+                        },
+                        {
+                          "text": " que nos enche de orgulho."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Uma mulher de"
+                        },
+                        {
+                          "bold": true,
+                          "text": " 67 Anos "
+                        },
+                        {
+                          "text": "que assim como você"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "realizou essa "
+                        },
+                        {
+                          "bold": true,
+                          "text": "consulta gratuita "
+                        },
+                        {
+                          "text": "e decidiu que a sua "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "saúde era muito importante, e deu o primeiro passo"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "para mudar essa situação."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Iniciou o tratamento rapidamente, e posso dizer "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "com muito orgulho que Martina perdeu"
+                        },
+                        {
+                          "bold": true,
+                          "text": " 30 kg em oito semanas"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "qpnisonkwonnqjnxx5rwp4px",
+                "type": "image",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/f655dwfrgj3vabz27hp1on10/blocks/r1mqyxoq7etgf2mw3kyct4dh?v=1690603297654"
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "mhfam7l7u0izc2o2bk232dh4",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Você gostaria de saber mais sobre o nosso"
+                        },
+                        {
+                          "bold": true,
+                          "text": " Programa de Emagrecimento"
+                        },
+                        {
+                          "text": "?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "wp3c4h83b7dmzpt00j1yrk1d",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "wrlb3rz8jqvsvory9cel6d36",
+                    "type": 0,
+                    "blockId": "c77pjsl3pifc0n1xfzv5bttr",
+                    "content": "Sim, Gostaria!"
+                  }
+                ],
+                "groupId": "d79udp26uz8zead2jxyomouy",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                }
+              },
+              {
+                "id": "bkpcx015rvdwjp5xk80y2plf",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Até o momento, mais de 200 mulheres "
+                        },
+                        {
+                          "bold": true,
+                          "text": "participaram"
+                        },
+                        {
+                          "text": " do nosso "
+                        },
+                        {
+                          "bold": true,
+                          "text": "Programa de Emagrecimento"
+                        },
+                        {
+                          "text": "..."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "z98mszxjiq8cnymxda56b01j",
+                "type": "Wait",
+                "groupId": "d79udp26uz8zead2jxyomouy",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "z4qrit66vr7zajcgztjjzw53",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Vou te citar alguns dos benefícios ao participar do nosso "
+                        },
+                        {
+                          "bold": true,
+                          "text": "Programa"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "sc8co3ucclv5r2s1gvh9y13a",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Perda de peso rápido"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Redução de celulite"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Aumento da autoestima"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Redução de ansiedade"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Menor queda de cabelo"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Eliminaram dores no corpo"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Mais apetite sexual"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Sensação de bem estar"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Prevenção de doenças"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Controle de Diabetes"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "✅ Controle da Pressão Alta"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "jk3q85mf1p0zj5rw87ehi3vs",
+                "type": "Wait",
+                "groupId": "d79udp26uz8zead2jxyomouy",
+                "options": {
+                  "secondsToWaitFor": "10"
+                }
+              },
+              {
+                "id": "ci47lmp8fgo7ue6rzmy9hn58",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/bio5rszzye6iuk19yv7668gt?v=1689947232661"
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "naur96rjq483g0f7hqgfklbi",
+                "type": "Wait",
+                "groupId": "d79udp26uz8zead2jxyomouy",
+                "options": {
+                  "secondsToWaitFor": "10"
+                }
+              },
+              {
+                "id": "lxma6d6a9uyyxevzweenw7d2",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Gostaria de "
+                        },
+                        {
+                          "bold": true,
+                          "text": "PARTICIPAR"
+                        },
+                        {
+                          "text": "?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "d79udp26uz8zead2jxyomouy"
+              },
+              {
+                "id": "i6lxf4ea29x8doymxg8tcjet",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "btllajnecmlbds7yw14mcjx9",
+                    "type": 0,
+                    "blockId": "s3drz0ul6o39vlofas9co1h1",
+                    "content": "Sim, Gostaria!",
+                    "outgoingEdgeId": "e7juwebjiwoofyj7msmqwyfz"
+                  }
+                ],
+                "groupId": "d79udp26uz8zead2jxyomouy",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                }
+              }
+            ],
+            "graphCoordinates": {
+              "x": -256.82,
+              "y": 26.24
+            }
+          },
+          {
+            "id": "kqrrcdjruhlpbxprxkti8w7q",
+            "title": "",
+            "blocks": [
+              {
+                "id": "dpi04pksuh16ehq0rj3z6t09",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/nagbcw3jkh0qfwi9ixzkf9u2?v=1689947293370"
+                },
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q"
+              },
+              {
+                "id": "f9o8nay6cphrkpxwo6yn49s3",
+                "type": "Wait",
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q",
+                "options": {
+                  "secondsToWaitFor": "10"
+                }
+              },
+              {
+                "id": "jzbxclz37yyb45dyexjyomoa",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/n46fic0mci3p68ik99wh0482?v=1689947331222"
+                },
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q"
+              },
+              {
+                "id": "w8t9304n6s9irtcs78wvlgd9",
+                "type": "Wait",
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q",
+                "options": {
+                  "secondsToWaitFor": "12"
+                }
+              },
+              {
+                "id": "f9x4rei30lkmel8b7y6yku7p",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/lfh1td45oa8z9cz683sxxtdq?v=1689947382248"
+                },
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q"
+              },
+              {
+                "id": "rtiyeu1dlgr1nkucqud4fs5i",
+                "type": "Wait",
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q",
+                "options": {
+                  "secondsToWaitFor": "10"
+                }
+              },
+              {
+                "id": "fu0op1bb1oelgsg2t0zgme0e",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Por isso, para "
+                        },
+                        {
+                          "bold": true,
+                          "text": "garantir a sua vaga"
+                        },
+                        {
+                          "text": ", eu peço apenas que você pague uma "
+                        },
+                        {
+                          "bold": true,
+                          "text": "Taxa de Inscrição"
+                        },
+                        {
+                          "text": " que é apenas "
+                        },
+                        {
+                          "bold": true,
+                          "text": "R$37,00"
+                        },
+                        {
+                          "text": ". Isso é apenas para garantir que você vai se "
+                        },
+                        {
+                          "bold": true,
+                          "text": "comprometer com o Programa"
+                        },
+                        {
+                          "text": " e que não vai abandona-lo. Antes era de graça, mas muitas pessoas abandonavam e acabava ocupando meu tempo atoa."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q"
+              },
+              {
+                "id": "pwqhl8iankbjykfh9hm7k2vn",
+                "type": "Wait",
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q",
+                "options": {
+                  "secondsToWaitFor": "2"
+                }
+              },
+              {
+                "id": "s7wq13ywtxysh9iaojz2kkut",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/x8qtylodo4h6zyzt1klydxd5?v=1689948202817"
+                },
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q"
+              },
+              {
+                "id": "vjxdybzt5l0atwdorou9opqy",
+                "type": "Wait",
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q",
+                "options": {
+                  "secondsToWaitFor": "16"
+                }
+              },
+              {
+                "id": "rd2lfqgdwb5d1hm8vc4ir8ib",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Restam "
+                        },
+                        {
+                          "bold": true,
+                          "text": "APENAS 4 VAGAS"
+                        },
+                        {
+                          "text": " para participar do"
+                        },
+                        {
+                          "bold": true,
+                          "text": " Programa de Emagrecimento"
+                        },
+                        {
+                          "text": " e eu "
+                        },
+                        {
+                          "bold": true,
+                          "text": "posso reservar uma vaga para você"
+                        },
+                        {
+                          "text": ", mas é "
+                        },
+                        {
+                          "bold": true,
+                          "text": "somente agora"
+                        },
+                        {
+                          "text": "."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q"
+              },
+              {
+                "id": "uefe66un6luky05z16gn9qkp",
+                "type": "Wait",
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q",
+                "options": {
+                  "secondsToWaitFor": "10"
+                }
+              },
+              {
+                "id": "wk8el1ypmum0l2uhc5vivez8",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Basta clicar no botão e fazer sua "
+                        },
+                        {
+                          "bold": true,
+                          "text": "INSCRIÇÃO"
+                        },
+                        {
+                          "text": "!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q"
+              },
+              {
+                "id": "lsnlyshkk3ht4g456m2yg1qa",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "vzu8kvlvuwpox0axqg0t9oof",
+                    "type": 0,
+                    "blockId": "cdiz1ejiaafceza5cwd1ya51",
+                    "content": "CLIQUE AQUI PARA PARTICIPAR!",
+                    "outgoingEdgeId": "e3wispy494weny3xdbk62x61"
+                  }
+                ],
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                }
+              },
+              {
+                "id": "mx7ztmzkf7pt303cycvsudvh",
+                "type": "Wait",
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q",
+                "options": {
+                  "secondsToWaitFor": "20"
+                }
+              },
+              {
+                "id": "pzlva33ccvo0wzaw8f91x8b8",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Ou... redirecionaremos você automaticamente em alguns segundos.."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "kqrrcdjruhlpbxprxkti8w7q",
+                "outgoingEdgeId": "eb39sb5n4v7khtv4v0874qcm"
+              }
+            ],
+            "graphCoordinates": {
+              "x": 120.55,
+              "y": 23.93
+            }
+          },
+          {
+            "id": "ryoxq1d4tgvtsoo0lg343ahl",
+            "title": "",
+            "blocks": [
+              {
+                "id": "s603u4ya07lxs3fjtlqsk505",
+                "type": "Wait",
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl",
+                "options": {
+                  "secondsToWaitFor": "5"
+                }
+              },
+              {
+                "id": "eg5lsp24ep4pjj3eu4805u95",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Ok... Poderia me falar seu nome? "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl"
+              },
+              {
+                "id": "u7gewuup87ldpuats9tssc69",
+                "type": "text input",
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl",
+                "options": {
+                  "isLong": false,
+                  "labels": {
+                    "button": "Enviar",
+                    "placeholder": "Digite seu nome..."
+                  }
+                }
+              },
+              {
+                "id": "jbkg3e44rs0vn9taeq6l53li",
+                "type": "Wait",
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl",
+                "options": {
+                  "secondsToWaitFor": "3"
+                }
+              },
+              {
+                "id": "bx5rg82iwg630a6xjr6bmfib",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Você mora em qual Estado? "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl"
+              },
+              {
+                "id": "ogfuve0dhdgcpwuviw9qhg1m",
+                "type": "text input",
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl",
+                "options": {
+                  "isLong": false,
+                  "labels": {
+                    "button": "Enviar",
+                    "placeholder": "Digite seu Estado..."
+                  }
+                }
+              },
+              {
+                "id": "c26tpxectvdfarapc44wdne2",
+                "type": "Wait",
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl",
+                "options": {
+                  "secondsToWaitFor": "6"
+                }
+              },
+              {
+                "id": "gyt7n5z7anlqpdqrt91s3j5g",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Qual é o seu peso aproximadamente? "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl"
+              },
+              {
+                "id": "e8k42oo934ghacomv5ta8l4j",
+                "type": "number input",
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl",
+                "options": {
+                  "labels": {
+                    "button": "Enviar",
+                    "placeholder": "Digite seu peso..."
+                  }
+                }
+              },
+              {
+                "id": "pasb45s5qjjubvbtigmig38c",
+                "type": "Wait",
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl",
+                "options": {
+                  "secondsToWaitFor": "6"
+                }
+              },
+              {
+                "id": "j7oufvfa3hsnzlslltkuh3c0",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Qual é a sua altura?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl"
+              },
+              {
+                "id": "n7ajln41hlmlagxpk8n1f5cr",
+                "type": "number input",
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl",
+                "options": {
+                  "labels": {
+                    "button": "Enviar",
+                    "placeholder": "Digite sua altura aqui..."
+                  }
+                }
+              },
+              {
+                "id": "ilr9tdomir5s6smg2dz4w1x6",
+                "type": "Wait",
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl",
+                "options": {
+                  "secondsToWaitFor": "6"
+                }
+              },
+              {
+                "id": "gyddv9ai4o10ttsxclm6qrkd",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Eu estou analisando aqui seu caso, aguarde um momento por favor."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl"
+              },
+              {
+                "id": "aqui8jwxu7cg11ez7jzfzcjs",
+                "type": "Wait",
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl",
+                "options": {
+                  "secondsToWaitFor": "9"
+                }
+              },
+              {
+                "id": "nf9h70kptr3sb9prapzjm70f",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/pyqi75p015k8xbyomnyrzc1k?v=1689946038893"
+                },
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl"
+              },
+              {
+                "id": "tt0qjb9fp432lhkkxx4o6ycm",
+                "type": "Wait",
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl",
+                "options": {
+                  "secondsToWaitFor": "6"
+                }
+              },
+              {
+                "id": "drp2e5q5lt7mb6o5jwipdk0l",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/ul2bih8tcy0ossaz3bl0u9oh?v=1689946055222"
+                },
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl"
+              },
+              {
+                "id": "dyu6pez66ff8oib8qkz9oto0",
+                "type": "Wait",
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl",
+                "options": {
+                  "secondsToWaitFor": "6"
+                }
+              },
+              {
+                "id": "sqow5u2o929itj87juis79hw",
+                "type": "audio",
+                "content": {
+                  "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/blocks/od57u6izr5l7ve0527sjocou?v=1689946079359"
+                },
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl"
+              },
+              {
+                "id": "sj2py77weybj7gn3yh6p1j8r",
+                "type": "Wait",
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl",
+                "options": {
+                  "secondsToWaitFor": "6"
+                }
+              },
+              {
+                "id": "wiks57brfgx80x6wlxkzbxe9",
+                "type": "text",
+                "content": {
+                  "richText": [
+                    {
+                      "type": "p",
+                      "children": [
+                        {
+                          "text": "Podemos continuar a sua consulta?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl"
+              },
+              {
+                "id": "ey7avi1pwfdzklifphlnwt7b",
+                "type": "choice input",
+                "items": [
+                  {
+                    "id": "okresqmddf20uwlecnkznsx5",
+                    "type": 0,
+                    "blockId": "at8qjvg0o7vbdj1r5wx1dc6v",
+                    "content": "Sim, podemos!",
+                    "outgoingEdgeId": "gnf82i3zv1rj8legif1d8eot"
+                  }
+                ],
+                "groupId": "ryoxq1d4tgvtsoo0lg343ahl",
+                "options": {
+                  "buttonLabel": "Send",
+                  "isSearchable": false,
+                  "isMultipleChoice": false,
+                  "searchInputPlaceholder": "Filter the options..."
+                }
+              }
+            ],
+            "graphCoordinates": {
+              "x": -1034.51,
+              "y": 22.07
+            }
+          },
+          {
+            "id": "za5rgdmbp0f141djltd7tap3",
+            "title": "Group #7",
+            "blocks": [
+              {
+                "id": "kmyjmuhok9482if82gi2a1ho",
+                "type": "Redirect",
+                "groupId": "za5rgdmbp0f141djltd7tap3",
+                "options": {
+                  "url": "https://go.perfectpay.com.br/PPU38CMOM23",
+                  "isNewTab": false
+                }
+              }
+            ],
+            "graphCoordinates": {
+              "x": 634.57,
+              "y": 1349.39
+            }
+          }
+        ],
+        "variables": [
+          {
+            "id": "vprp91gkcj6ooz2wteh9qrvjn",
+            "name": "NOME"
+          },
+          {
+            "id": "vylhptebpxvgxs98ah9vf9q1p",
+            "name": "PESO"
+          },
+          {
+            "id": "vpel0viottucscnen8zdlejaf",
+            "name": "IDADE"
+          },
+          {
+            "id": "vlnuxmidqsek5hmsy83v55c7h",
+            "name": "PERDER"
+          },
+          {
+            "id": "va2xubuj795oo62rxwti3hudj",
+            "name": "TEMPO"
+          }
+        ],
+        "edges": [
+          {
+            "id": "wpfwc66wifddvawpq88svxzh",
+            "to": {
+              "blockId": "eg5lsp24ep4pjj3eu4805u95",
+              "groupId": "ryoxq1d4tgvtsoo0lg343ahl"
+            },
+            "from": {
+              "blockId": "c1yer4k1yh5wsxdgbkwb8exx",
+              "groupId": "kxf0bn7sfoe9ojizcsyra1q9"
+            }
+          },
+          {
+            "id": "d8g2ro61ab6cdndimxmjej01",
+            "to": {
+              "blockId": "wmx86ph08nomq5vihmjwsoip",
+              "groupId": "kxf0bn7sfoe9ojizcsyra1q9"
+            },
+            "from": {
+              "blockId": "conk0jvl9pwspemyt2wfyb40",
+              "groupId": "rdrc5p4bxg6z7rsourqo98cg"
+            }
+          },
+          {
+            "id": "gnf82i3zv1rj8legif1d8eot",
+            "to": {
+              "groupId": "di8ujzv7i6xnnkxd3l5bi7bm"
+            },
+            "from": {
+              "itemId": "okresqmddf20uwlecnkznsx5",
+              "blockId": "ey7avi1pwfdzklifphlnwt7b",
+              "groupId": "ryoxq1d4tgvtsoo0lg343ahl"
+            }
+          },
+          {
+            "id": "dchwkwpztu7x09zfmv3q2xlb",
+            "to": {
+              "groupId": "d79udp26uz8zead2jxyomouy"
+            },
+            "from": {
+              "itemId": "cqeo785e0p8lc035hjwoga3s",
+              "blockId": "z5ha692zppob71f82sccvzu1",
+              "groupId": "di8ujzv7i6xnnkxd3l5bi7bm"
+            }
+          },
+          {
+            "id": "e7juwebjiwoofyj7msmqwyfz",
+            "to": {
+              "groupId": "kqrrcdjruhlpbxprxkti8w7q"
+            },
+            "from": {
+              "itemId": "btllajnecmlbds7yw14mcjx9",
+              "blockId": "i6lxf4ea29x8doymxg8tcjet",
+              "groupId": "d79udp26uz8zead2jxyomouy"
+            }
+          },
+          {
+            "id": "e3wispy494weny3xdbk62x61",
+            "to": {
+              "groupId": "za5rgdmbp0f141djltd7tap3"
+            },
+            "from": {
+              "itemId": "vzu8kvlvuwpox0axqg0t9oof",
+              "blockId": "lsnlyshkk3ht4g456m2yg1qa",
+              "groupId": "kqrrcdjruhlpbxprxkti8w7q"
+            }
+          },
+          {
+            "id": "hjponpybgg8h2nw5vd8pjvz3",
+            "to": {
+              "groupId": "ryoxq1d4tgvtsoo0lg343ahl"
+            },
+            "from": {
+              "itemId": "cigszfogy5e8w000i07vu0rl",
+              "blockId": "c1yer4k1yh5wsxdgbkwb8exx",
+              "groupId": "kxf0bn7sfoe9ojizcsyra1q9"
+            }
+          },
+          {
+            "id": "eb39sb5n4v7khtv4v0874qcm",
+            "to": {
+              "groupId": "za5rgdmbp0f141djltd7tap3"
+            },
+            "from": {
+              "blockId": "pzlva33ccvo0wzaw8f91x8b8",
+              "groupId": "kqrrcdjruhlpbxprxkti8w7q"
+            }
+          }
+        ],
+        "theme": {
+          "chat": {
+            "inputs": {
+              "color": "#000000",
+              "backgroundColor": "#FFFFFF",
+              "placeholderColor": "#28292a"
+            },
+            "buttons": {
+              "color": "#FFFFFF",
+              "backgroundColor": "#128C7E"
+            },
+            "roundness": "medium",
+            "hostAvatar": {
+              "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/hostAvatar?v=1689949940813",
+              "isEnabled": true
+            },
+            "guestAvatar": {
+              "url": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/guestAvatar?v=1689950013343",
+              "isEnabled": false
+            },
+            "hostBubbles": {
+              "color": "#303235",
+              "backgroundColor": "#FFFFFF"
+            },
+            "guestBubbles": {
+              "color": "#303235",
+              "backgroundColor": "#e1ffc7"
+            }
+          },
+          "general": {
+            "font": "Open Sans",
+            "background": {
+              "type": "Image",
+              "content": "https://s3.fr-par.scw.cloud/typebot/public/typebots/cli88mae30010mh0f0yzjqn48/background?v=1685470080750"
+            }
+          },
+          "customCss": ".typebot-chat-view > .flex:first-child {\n    padding-top: 30px;\n}\n\n.typebot-input {\n    position: fixed;\n    bottom: 0;\n    align-items: center;\n    z-index: 999;\n    right: 0;\n}\n\n.typebot-input .typebot-button {\n    background: #008a7c;\n    border-radius: 50%;\n    color: #fff;\n    position: relative;\n    width: 50px;\n    height: 50px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n\n.typebot-container {\n    background-size: initial!important;\n    background-repeat: repeat-x!important;\n}\n\n.typebot-host-bubble>.bubble-typing {\n  border-radius: 0 5px 5px 5px;\n}\n\n.typebot-host-bubble>.bubble-typing:after {\n    position: absolute;\n    content: \"\";\n    width: 0;\n    height: 0;\n    border-style: solid;\n    border-width: 0px 10px 10px 0;\n    border-color: transparent #fff transparent transparent;\n    top: 0;\n    left: -10px;\n}\n\n.typebot-guest-bubble {\n  position: relative;\n  border-radius: 5px 0 5px 5px;\n}\n\n.typebot-guest-bubble:after {\n  position: absolute;\n  content: \"\";\n  width: 0;\n  height: 0;\n  border-style: solid;\n}\n\n.typebot-guest-bubble:after {\n    border-width: 0px 0 10px 10px;\n    border-color: transparent transparent transparent #e1ffc7;\n    top: 0;\n    right: -10px;\n    border-style: solid;\n}\n\niframe[src=\"\"] {\n  position: fixed;\n  top: 0;\n  left: 0;\n  display: relative;\n  width: 100%;\n  height: 100% !important;\n  z-index: 999999;\n  border: none;\n  padding: 0;\n  margin: 0;\n}\n\na#lite-badge {\n  display: none!important;\n}"
+        },
+        "settings": {
+          "general": {
+            "rememberUser": {
+              "isEnabled": false
+            },
+            "isBrandingEnabled": true,
+            "isInputPrefillEnabled": false,
+            "isHideQueryParamsEnabled": false
+          },
+          "metadata": {
+            "title": "WhatsApp Web",
+            "imageUrl": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/ogImage?v=1689951764526",
+            "favIconUrl": "https://s3.fr-par.scw.cloud/typebot/public/typebots/r1ft5qpa2r85d21pwvnb6ho6/favIcon?v=1689950338596",
+            "description": "Faça agora sua consulta com Dra. Fernanda no WhatsApp.",
+            "customHeadCode": "<!-- Meta Pixel Code -->\n<script>\n  !function(f,b,e,v,n,t,s)\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n  n.queue=[];t=b.createElement(e);t.async=!0;\n  t.src=v;s=b.getElementsByTagName(e)[0];\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\n  'https://connect.facebook.net/en_US/fbevents.js');\n  fbq('init', '1299923650728092');\n  fbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\n  src=\"https://www.facebook.com/tr?id=1299923650728092&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->\n \n</script>\n<!-- End Facebook Pixel Code -->\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css\">\n<style>\n  .hide {\n    display: none!important;\n  }\n  typebot-standard {\n    position: relative;\n    z-index: 9999;\n  }\n  #__next {\n    position: relative;\n    z-index: 9999;\n}\n  /* User Bar */\n.user-bar {\n  width: 100%;\n  height: 55px;\n  background: #005e54;\n  color: #fff;\n  padding: 0;\n  font-size: 24px;\n  position: fixed;\n  z-index: 99999;\n  display: block;\n  top: 0;\n}\n\n.user-bar:after {\n  content: \"\";\n  display: table;\n  clear: both;\n}\n\n.user-bar div {\n    float: left;\n    transform: translateY(-50%);\n    position: relative;\n    top: 50%;\n    margin-left: 10px;\n}\n\n.user-bar .actions {\n  float: right;\n  margin: 0 0 0 20px;\n}\n\n.user-bar .actions.more {\n  margin: 0 12px 0 32px;\n}\n\n.user-bar .actions.attachment {\n  margin: 0 0 0 30px;\n}\n\n.user-bar .actions.attachment i {\n  display: block;\n  transform: rotate(-45deg);\n}\n\n.user-bar .avatar {\n  margin: 0 0 0 5px;\n  width: 36px;\n  height: 36px;\n}\n\n.user-bar .avatar img {\n  border-radius: 50%;\n  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1);\n  display: block;\n  width: 100%;\n}\n\n.user-bar .name {\n  font-size: 17px;\n  font-weight: 600;\n  text-overflow: ellipsis;\n  letter-spacing: 0.3px;\n  margin: 0 0 0 8px;\n  overflow: hidden;\n  white-space: nowrap;\n  width: 150px;\n}\n\n.user-bar .status {\n  display: block;\n  font-size: 13px;\n  font-weight: 400;\n  letter-spacing: 0;\n}\n</style>\n\n<script>\nfunction criarBarra() {\n  var userBar = document.createElement(\"div\");\n  userBar.className = \"user-bar\";\n\n  var backButton = document.createElement(\"div\");\n  backButton.className = \"back\";\n  backButton.innerHTML = '<i class=\"zmdi zmdi-arrow-left\"></i>';\n\n  var avatar = document.createElement(\"div\");\n  avatar.className = \"avatar\";\n  avatar.innerHTML = '<img src=\"https://i.postimg.cc/9QhMMLSY/host-Avatar.png\" alt=\"Dra Fernanda\">';\n\n  var name = document.createElement(\"div\");\n  name.className = \"name\";\n  name.innerHTML = '<span>Dra. Fernanda</span><span class=\"status\">online</span>';\n\n  var moreActions = document.createElement(\"div\");\n  moreActions.className = \"actions more\";\n  moreActions.innerHTML = '<i class=\"zmdi zmdi-more-vert\"></i>';\n\n  var attachmentAction = document.createElement(\"div\");\n  attachmentAction.className = \"actions attachment\";\n  attachmentAction.innerHTML = '<i class=\"zmdi zmdi-attachment-alt\"></i>';\n\n  var phoneAction = document.createElement(\"div\");\n  phoneAction.className = \"actions\";\n  phoneAction.innerHTML = '<i class=\"zmdi zmdi-phone\"></i>';\n\n  userBar.appendChild(backButton);\n  userBar.appendChild(avatar);\n  userBar.appendChild(name);\n  userBar.appendChild(moreActions);\n  userBar.appendChild(attachmentAction);\n  userBar.appendChild(phoneAction);\n\n  var elementoPai = document.querySelector(\"#__next\");\n  if (elementoPai) {\n    elementoPai.insertBefore(userBar, elementoPai.firstChild);\n  }\n}\n\ncriarBarra();\n</script>\n"
+          },
+          "typingEmulation": {
+            "speed": 300,
+            "enabled": true,
+            "maxDelay": 1.5
+          }
+        }
+      }
