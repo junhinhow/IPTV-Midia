@@ -1,0 +1,12 @@
+# Dependências para o script de análise e renomeação de imagens
+# Instale com: pip install -r requirements_ocr.txt
+
+# OCR (Reconhecimento Óptico de Caracteres)
+pytesseract>=0.3.10
+
+# Processamento de imagens
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Utilitários
+numpy>=1.24.0 
