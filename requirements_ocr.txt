@@ -1,4 +1,4 @@
-# Dependências para o script de análise e renomeação de imagens
+# Dependências para o script de extração de texto de imagens
 # Instale com: pip install -r requirements_ocr.txt
 
 # OCR (Reconhecimento Óptico de Caracteres)
