@@ -1,0 +1,175 @@
+RELATÓRIO DE CORREÇÕES DE NOMES
+========================================
+
+Total de correções: 34
+
+1. 01_Esportes/basquete
+   Original: acompanhe basquete ao vivo - MULTISERVIDORES ASSISTA EM QUALQUER DISPOSITIVO SMARTIV TVBOX NOTEBOOK CELULAR.png
+   Corrigido: acompanhe basquete ao vivo - Smart TV e TV Box.png
+   Problema: Nome problemático/OCR ruim
+
+2. 01_Esportes/basquete
+   Original: liga das nacoes volei - A EMOCAO DO VOLEI ESTA NO ORCER COM A GENTE PELA SELECAO BRASILEIRA MASCULINA ESINTAA VIBRACAO DE CADA PONTO RUMO A.png
+   Corrigido: liga das nacoes volei - A EMOCAO DO VOLEI ESTA NO ORCER COM A GENTE PELA SELECAO BRASILEIRA MASCULINA.png
+   Problema: Nome problemático/OCR ruim
+
+3. 01_Esportes/basquete
+   Original: MULTISERVIDORES ASSISTA EM - MULTISERVIDORES ASSISTA EM QUALQUER DISPOSITIVO S 92988473360 mE D09 SMARTIV TVBOX NOTEBOOK CELULAR.png
+   Corrigido: Assista EM - S mE D09 Smart TV e TV Box.png
+   Problema: Nome problemático/OCR ruim
+
+4. 01_Esportes/futebol
+   Original: acompanhe brasileirao serie a 2025 - MULTISERVIDORES FR MTZ O semcontrato sem travam 92 988473360 Bunkz Ru BRASILEIRAO SsEerIe a.png
+   Corrigido: acompanhe Brasileirão Série A 2025 - FR MTZ O semcontrato sem travam Bunkz Ru Brasileirão SsEerIe a.png
+   Problema: Nome problemático/OCR ruim
+
+5. 01_Esportes/futebol
+   Original: apaixonado por doramas novelas futebol - pA Fan Aa I APAIX UUU FUTEBI o Nonosso App de streammg encontra as historias que emoci osjogos que fazem vibrar e os.png
+   Corrigido: apaixonado por doramas novelas futebol - pA Fan Aa I APAIX UUU FUTEBI o Nonosso App de streammg encontra as historias que.png
+   Problema: Nome problemático/OCR ruim
+
+6. 01_Esportes/futebol
+   Original: ASSISTA TUDO AQUI - ASSISTA TUDO AQUI COM A MELHOR QUALIDADE DO MERCADO VENHA TORCER CONOSCO PELO SEU TIME DO CORACAO 092 988473360.png
+   Corrigido: Assista TUDO AQUI - Assista TUDO AQUI COM A melhor qualidade DO MERCADO VENHA TORCER CONOSCO PELO.png
+   Problema: Nome problemático/OCR ruim
+
+7. 01_Esportes/futebol
+   Original: brasileirao recomecou 2025 - APP DISPONIVEL NAS PRINCIPAIS MARCAS DE TV Disponivel SAMSUNG OLG Androi f Sisganoros dLoupariva.png
+   Corrigido: Brasileirão recomecou 2025 - APP DISPONIVEL NAS PRINCIPAIS MARCAS DE TV Disponivel SAMSUNG OLG Androi f.png
+   Problema: Nome problemático/OCR ruim
+
+8. 01_Esportes/futebol
+   Original: campeonato brasileiro serie b - O 92 988473360 QEDJA NSA.png
+   Corrigido: campeonato brasileiro Série B - O QEDJA NSA.png
+   Problema: Nome problemático/OCR ruim
+
+9. 01_Esportes/futebol
+   Original: campeonato mineiro 2025 - ANHE 8 92 988473360 s N.png
+   Corrigido: campeonato Mineiro 2025 - ANHE 8 s N.png
+   Problema: Nome problemático/OCR ruim
+
+10. 01_Esportes/futebol
+   Original: melhores campeonatos - Igln rba el MULTISERVIDORES X L T El Ovi ASSISTA AQUI OS MELHORES GAMPEONATOS DMPANHENA MULTISERVIDORES OS 0S JOGOS DOS.png
+   Corrigido: melhores campeonatos - Igln rba el X L T El Ovi Assista AQUI OS MELHORES GAMPEONATOS DMPANHENA OS 0S.png
+   Problema: Nome problemático/OCR ruim
+
+11. 01_Esportes/futebol
+   Original: principais campeonatos estaduais - UasDBNEem ASSISTA os portobetio RRINGIRAISA efiZ GCAMPEONATOS TSSA IVA o ETMETD gc o D o ENEB Qr o ENT o EB.png
+   Corrigido: principais campeonatos estaduais - UasDBNEem Assista os portobetio RRINGIRAISA efiZ GCAMPEONATOS TSSA IVA o ETMETD.png
+   Problema: Nome problemático/OCR ruim
+
+12. 01_Esportes/futebol
+   Original: S UIBERTADORES TODOS 2025 - S UIBERTADORES TODOS OS JOGOS DA LIBERTADORES 2025 COM A MELHOR QUALIDADE DE SOM E IMAGEM DO MERGADO nlsvoslnvas.png
+   Corrigido: S UIBERTADORES TODOS 2025 - S UIBERTADORES TODOS OS JOGOS DA Libertadores 2025 COM A melhor qualidade DE SOM.png
+   Problema: Nome problemático/OCR ruim
+
+13. 01_Esportes/futebol
+   Original: selecao brasileira - 4 PA 92 988473360 Dooa D.png
+   Corrigido: selecao brasileira - 4 PA Dooa D.png
+   Problema: Nome problemático/OCR ruim
+
+14. 01_Esportes/futebol
+   Original: todos campeonatos europeus - Premier League LIGUE 1 BUNDESLIGA pixbet ES AA UDO ONATOS EM UM SO LUGAR SERIES FILMES GANAIS SPORTS ELEVEN id.png
+   Corrigido: todos campeonatos europeus - Premier League LIGUE 1 BUNDESLIGA pixbet ES AA UDO ONATOS EM UM SO LUGAR SERIES.png
+   Problema: Nome problemático/OCR ruim
+
+15. 01_Esportes/ufc_mma
+   Original: ASSISTALUTAS DETIRAR O - ASSISTALUTAS DETIRAR O FOLEGO 92 988473360.png
+   Corrigido: ASSISTALUTAS DETIRAR O - ASSISTALUTAS DETIRAR O FOLEGO.png
+   Problema: Nome problemático/OCR ruim
+
+16. 02_Filmes/acao
+   Original: indicacao da semana bailarina - BPASSINE NOSSO APP E ASSISTA AGORA j SERIES NOVELAS DORAMAS DESENHOS ANIMES pisPOSITIVOS cofuufivis 1 92 988473360 Ru.png
+   Corrigido: indicacao da semana bailarina - BPASSINE NOSSO APP E Assista agora j SERIES NOVELAS DORAMAS DESENHOS ANIMES.png
+   Problema: Nome problemático/OCR ruim
+
+17. 02_Filmes/acao
+   Original: lalas S MULTISERVIEIEIRES - lalas S MULTISERVIEIEIRES e PD A LEVE AGORAMUITA PARA DENT O DE SUA CASA DESCUBRA CANAIS CHEIOS DE ACAO FILMES DE TIRAR.png
+   Corrigido: lalas S MULTISERVIEIEIRES - lalas S MULTISERVIEIEIRES e PD A LEVE AGORAMUITA PARA DENT O DE SUA CASA.png
+   Problema: Nome problemático/OCR ruim
+
+18. 02_Filmes/acao
+   Original: melhor programacao streaming - PROGRAMAC DESFRUTE DA MELHOR PROGRAMACAO DO STREAMING COM A b prime video i IETFLIX SAvramount Daloboplay TELECINE.png
+   Corrigido: melhor programacao streaming - PROGRAMAC DESFRUTE DA melhor PROGRAMACAO DO STREAMING COM A b Prime Video video.png
+   Problema: Nome problemático/OCR ruim
+
+19. 02_Filmes/acao
+   Original: series prepare pipoca - gl PREPARE A PIPOCA PARA ASSISTIR ESSA INCRIVEL SERIE DESVENDAR OS CRIMES MAIS INTRIGANTES E COM MUITA ADRENALINA ASSINE.png
+   Corrigido: series prepare pipoca - gl PREPARE A PIPOCA PARA ASSISTIR ESSA INCRIVEL SERIE DESVENDAR OS CRIMES MAIS.png
+   Problema: Nome problemático/OCR ruim
+
+20. 02_Filmes/classicos
+   Original: saudade dos classicos - OMPANHE O MELHOR Il TERBU B 92 988473360 DISP i IDVS conlruvlvilsi.png
+   Corrigido: saudade dos classicos - OMPANHE O melhor Il TERBU B DISP i IDVS conlruvlvilsi.png
+   Problema: Nome problemático/OCR ruim
+
+21. 02_Filmes/generos
+   Original: documentarios - XI a NN MULTISERVIDORES x a TEGIUATODOROS DOCUMENTADIA S EN N TNENUIDORETT SMARTIV TVBOX ASSISTA EM QUALQUER DISPOSITIVO.png
+   Corrigido: documentarios - XI a NN x a TEGIUATODOROS DOCUMENTADIA S EN N TNENUIDORETT Smart TV e TV Box.png
+   Problema: Nome problemático/OCR ruim
+
+22. 02_Filmes/lancamentos
+   Original: DISPOSITIVOS COMPATIVEIS x - DISPOSITIVOS COMPATIVEIS x 92 988473360 BMunkic NNS.png
+   Corrigido: DISPOSITIVOS COMPATIVEIS x - DISPOSITIVOS COMPATIVEIS x BMunkic NNS.png
+   Problema: Nome problemático/OCR ruim
+
+23. 02_Filmes/lancamentos
+   Original: MULTISERVIDORES ASSISTA EM - MULTISERVIDORES ASSISTA EM QUALQUER DISPOSITIVO NS 92988473360 mh 009 SMARTIV TVBOX NOTEBOOK CEL.png
+   Corrigido: Assista EM - NS mh 009 Smart TV e TV Box NOTEBOOK CEL.png
+   Problema: Nome problemático/OCR ruim
+
+24. 02_Filmes/lancamentos
+   Original: procura novos conteudos - AGORA MESMO s 92 98847 3360 DISPOSITIVOS COMPATIVEIS x F.png
+   Corrigido: procura novos conteudos - agora MESMO s 92 98847 3360 DISPOSITIVOS COMPATIVEIS x F_v1.png
+   Problema: Nome problemático/OCR ruim
+
+25. 02_Filmes/sagas
+   Original: grandes sagas e triologias - pi VP PISPOSITIVOS COMPATIVEIS S 92 988473360 o.png
+   Corrigido: grandes sagas e triologias - pi VP PISPOSITIVOS COMPATIVEIS S o.png
+   Problema: Nome problemático/OCR ruim
+
+26. 03_Series/reality
+   Original: top 3 reality shows - MULTISERVIDOR Q H iZ L TUP 3 Emu shoMis RRA VDGERASS EQ IRMAOS A OBRA OsIrmaos a Obra Drew e Jonathan Scott usam seu.png
+   Corrigido: top 3 reality shows - MULTISERVIDOR Q H iZ L TUP 3 Emu shoMis RRA VDGERASS EQ IRMAOS A OBRA OsIrmaos a.png
+   Problema: Nome problemático/OCR ruim
+
+27. 03_Series/temporadas
+   Original: assista series sem contratos - MEA MULTISERVID SPS LIVZA ASSISTA SUP iTA v SEM CONTRATOS iAs MELHORES SERIES SEM ANTENAS STREAMINGS DOS PRINCIPAIS SEM.png
+   Corrigido: Assista series sem contratos - MEA MULTISERVID SPS LIVZA Assista SUP iTA v SEM CONTRATOS iAs MELHORES SERIES.png
+   Problema: Nome problemático/OCR ruim
+
+28. 03_Series/temporadas
+   Original: MilTiSstvInoRES GCHEGA DE - MilTiSstvInoRES GCHEGA DE PAGAR i Z PORCANAISDETV TT TEMOS PLANOS EXCLUSIVOS EB Fsm QUECABEMNO SEU BOISO 20 RA nj A.png
+   Corrigido: MilTiSstvInoRES GCHEGA DE - MilTiSstvInoRES GCHEGA DE PAGAR i Z PORCANAISDETV TT TEMOS PLANOS EXCLUSIVOS EB.png
+   Problema: Nome problemático/OCR ruim
+
+29. 03_Series/temporadas
+   Original: MULTISERVIDORES FRLA vdeo - MULTISERVIDORES FRLA vdeo HMBOMUX NETFLIX A ASSISTA EM QUALQUER DISPOSITIVO vx 92 988473360 c e O 0 9 SMARTIV TVBOX.png
+   Corrigido: FRLA vdeo - FRLA vdeo HMBOMUX Netflix A vx c e O 0 9 Smart TV e TV Box.png
+   Problema: Nome problemático/OCR ruim
+
+30. 03_Series/temporadas
+   Original: MULTISERVIDORES Instale nosso - MULTISERVIDORES Instale nosso aplicativo e assista n.png
+   Corrigido: Instale nosso - Instale nosso aplicativo e Assista n.png
+   Problema: Nome problemático/OCR ruim
+
+31. 03_Series/temporadas
+   Original: roku tv liberamos tudo - VOCETEMUMA a ROKUNIP IBERAMOS TUDO NELA CANAIS FILMES o NOVELAS REALITY SHOW PA DESENHOS ANIMES NETFLIX.png
+   Corrigido: roku tv liberamos tudo - VOCETEMUMA a ROKUNIP IBERAMOS TUDO NELA CANAIS FILMES o NOVELAS REALITY SHOW PA.png
+   Problema: Nome problemático/OCR ruim
+
+32. 03_Series/temporadas
+   Original: turbinar tv antiga - GHEGOU A HORA DE VOCE QUE TEM UMA TV ANTIGA COM BOX CHEGOU A HORA DE DAR UM RADE COM O NOSSO APLICATIVO E LIBERA TODOS.png
+   Corrigido: turbinar tv antiga - GHEGOU A HORA DE VOCE QUE TEM UMA TV ANTIGA COM BOX CHEGOU A HORA DE DAR UM RADE.png
+   Problema: Nome problemático/OCR ruim
+
+33. 04_Conteudo_Especializado/adulto
+   Original: EE CONHECANOSSOSCANAISADULTOS PARASUA - EE CONHECANOSSOSCANAISADULTOS PARASUA DIVERSAO MAIS QUENTE ASSISTA EM QUALQUER DISPOSITIVO SMARTIV TVBOX NOTEBOOK CELUI.png
+   Corrigido: EE CONHECANOSSOSCANAISADULTOS PARASUA - EE CONHECANOSSOSCANAISADULTOS PARASUA DIVERSAO MAIS QUENTE Smart TV e TV Box.png
+   Problema: Nome problemático/OCR ruim
+
+34. 05_Promocoes/ofertas
+   Original: indique ganhe gratis - O AMIGO INDICADO DEVE INFORMAR SEUNOMEE ASSINARUMDE 1 NOSSOS PACOTE DISPONIVEIS.png
+   Corrigido: indique ganhe grátis - O AMIGO INDICADO DEVE INFORMAR SEUNOMEE ASSINARUMDE 1 NOSSOS PACOTE DISPONIVEIS.png
+   Problema: Nome problemático/OCR ruim
+
