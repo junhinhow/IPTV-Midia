@@ -138,75 +138,257 @@ class OrganizadorFlyers:
         return 'Qualquer horário'
     
     def gerar_insights(self, nome_arquivo, categoria, tematica):
-        """Gera insights sobre como usar melhor o flyer"""
+        """Gera insights específicos e úteis sobre como usar melhor o flyer"""
         insights = []
+        nome_lower = nome_arquivo.lower()
         
-        # Insights baseados na categoria
-        if categoria == 'Esportes':
+        # Insights baseados no conteúdo específico do nome
+        if 'brasileirao' in nome_lower:
             insights.extend([
-                "Usar durante jogos importantes",
-                "Postar antes de grandes partidas",
-                "Aproveitar momentos de torcida"
+                "Postar 2-3h antes dos jogos do Brasileirão",
+                "Usar em dias de clássicos e rivalidades",
+                "Aproveitar momentos de classificação/rebaixamento"
             ])
-        elif categoria == 'Filmes':
+        elif 'libertadores' in nome_lower:
             insights.extend([
-                "Usar em lançamentos de filmes",
-                "Aproveitar temporadas de premiações",
-                "Postar em fins de semana"
+                "Usar durante fase de grupos e mata-mata",
+                "Postar em dias de jogos internacionais",
+                "Aproveitar hype de times brasileiros"
             ])
-        elif categoria == 'Séries':
+        elif 'formula' in nome_lower or 'f1' in nome_lower:
+            insights.extend([
+                "Postar em fins de semana de GP",
+                "Usar durante qualificação e corrida",
+                "Aproveitar rivalidades entre pilotos"
+            ])
+        elif 'ufc' in nome_lower or 'mma' in nome_lower:
+            insights.extend([
+                "Usar em dias de eventos UFC",
+                "Postar durante weigh-ins e press conferences",
+                "Aproveitar hype de lutas principais"
+            ])
+        elif 'netflix' in nome_lower:
+            insights.extend([
+                "Postar em lançamentos de séries populares",
+                "Usar em fins de semana de maratona",
+                "Aproveitar trending topics de séries"
+            ])
+        elif 'disney' in nome_lower:
+            insights.extend([
+                "Usar em lançamentos de filmes/séries Disney",
+                "Postar em momentos familiares",
+                "Aproveitar nostalgia de clássicos"
+            ])
+        elif 'hbo' in nome_lower:
+            insights.extend([
+                "Usar em lançamentos de séries premium",
+                "Postar em dias de episódios",
+                "Aproveitar hype de séries de sucesso"
+            ])
+        elif 'lancamento' in nome_lower or 'novo' in nome_lower:
+            insights.extend([
+                "Usar em estreias de filmes/séries",
+                "Postar 1-2 dias antes do lançamento",
+                "Criar expectativa e antecipação"
+            ])
+        elif 'classico' in nome_lower:
+            insights.extend([
+                "Usar em momentos de nostalgia",
+                "Postar em datas comemorativas",
+                "Aproveitar sentimento saudosista"
+            ])
+        elif 'acao' in nome_lower:
+            insights.extend([
+                "Usar em lançamentos de filmes de ação",
+                "Postar em fins de semana",
+                "Aproveitar adrenalina e explosões"
+            ])
+        elif 'comedia' in nome_lower:
+            insights.extend([
+                "Usar em momentos de descontração",
+                "Postar em dias de humor",
+                "Aproveitar momentos de risada"
+            ])
+        elif 'terror' in nome_lower:
+            insights.extend([
+                "Usar em Halloween ou sextas 13",
+                "Postar em noites de terror",
+                "Aproveitar atmosfera de suspense"
+            ])
+        elif 'reality' in nome_lower:
+            insights.extend([
+                "Usar em dias de episódios",
+                "Postar durante eliminações",
+                "Aproveitar polêmicas e conflitos"
+            ])
+        elif 'anime' in nome_lower:
             insights.extend([
                 "Usar em lançamentos de temporadas",
-                "Aproveitar hype de séries populares",
-                "Postar em dias de maratona"
+                "Postar em comunidade otaku",
+                "Aproveitar hype de animes populares"
             ])
-        elif categoria == 'Promoções':
-            insights.extend([
-                "Usar com urgência e escassez",
-                "Criar senso de oportunidade",
-                "Postar em horários de maior engajamento"
-            ])
-        elif categoria == 'Datas Especiais':
-            insights.extend([
-                "Usar 1-2 semanas antes da data",
-                "Criar campanhas temáticas",
-                "Aproveitar sentimento da data"
-            ])
-        
-        # Insights baseados na temática
-        if tematica == 'Esportiva':
-            insights.extend([
-                "Usar em dias de jogos",
-                "Aproveitar rivalidades",
-                "Postar em horários de jogos"
-            ])
-        elif tematica == 'Entretenimento':
-            insights.extend([
-                "Usar em fins de semana",
-                "Aproveitar momentos de lazer",
-                "Postar em horários de entretenimento"
-            ])
-        elif tematica == 'Promocional':
-            insights.extend([
-                "Criar urgência",
-                "Usar números e percentuais",
-                "Postar em horários de decisão"
-            ])
-        elif tematica == 'Familiar':
+        elif 'infantil' in nome_lower or 'crianca' in nome_lower:
             insights.extend([
                 "Usar em momentos familiares",
-                "Aproveitar datas comemorativas",
-                "Postar em horários de família"
+                "Postar em fins de semana",
+                "Aproveitar datas das crianças"
             ])
+        elif 'adulto' in nome_lower or 'picante' in nome_lower:
+            insights.extend([
+                "Usar em horários noturnos",
+                "Postar com discrição",
+                "Aproveitar público adulto"
+            ])
+        elif 'promocao' in nome_lower or 'oferta' in nome_lower:
+            insights.extend([
+                "Usar com urgência e escassez",
+                "Postar em horários de decisão (18h-21h)",
+                "Criar senso de oportunidade única"
+            ])
+        elif 'desconto' in nome_lower:
+            insights.extend([
+                "Destacar percentual de desconto",
+                "Usar em horários de compra",
+                "Criar urgência com prazo limitado"
+            ])
+        elif 'gratis' in nome_lower or 'teste' in nome_lower:
+            insights.extend([
+                "Usar para captar leads",
+                "Postar em horários de maior engajamento",
+                "Destacar benefício sem custo"
+            ])
+        elif 'mae' in nome_lower or 'maes' in nome_lower:
+            insights.extend([
+                "Usar 1-2 semanas antes do Dia das Mães",
+                "Postar em momentos familiares",
+                "Aproveitar sentimento maternal"
+            ])
+        elif 'pai' in nome_lower or 'pais' in nome_lower:
+            insights.extend([
+                "Usar 1-2 semanas antes do Dia dos Pais",
+                "Postar em momentos familiares",
+                "Aproveitar sentimento paternal"
+            ])
+        elif 'carnaval' in nome_lower:
+            insights.extend([
+                "Usar 1-2 semanas antes do Carnaval",
+                "Postar em momentos de festa",
+                "Aproveitar espírito carnavalesco"
+            ])
+        elif 'natal' in nome_lower:
+            insights.extend([
+                "Usar 1-2 semanas antes do Natal",
+                "Postar em momentos familiares",
+                "Aproveitar espírito natalino"
+            ])
+        elif 'smart' in nome_lower or 'tv' in nome_lower:
+            insights.extend([
+                "Usar em momentos de entretenimento",
+                "Postar em horários de TV",
+                "Destacar facilidade de uso"
+            ])
+        elif 'android' in nome_lower or 'ios' in nome_lower:
+            insights.extend([
+                "Usar para público mobile",
+                "Postar em horários de uso de celular",
+                "Destacar compatibilidade"
+            ])
+        elif 'hd' in nome_lower or '4k' in nome_lower:
+            insights.extend([
+                "Usar para destacar qualidade",
+                "Postar em momentos de entretenimento",
+                "Destacar diferença de qualidade"
+            ])
+        elif 'premium' in nome_lower:
+            insights.extend([
+                "Usar para público exigente",
+                "Postar em horários premium",
+                "Destacar exclusividade"
+            ])
+        elif 'assista' in nome_lower or 'veja' in nome_lower:
+            insights.extend([
+                "Usar como call-to-action",
+                "Postar em horários de entretenimento",
+                "Criar curiosidade e interesse"
+            ])
+        elif 'melhor' in nome_lower or 'completo' in nome_lower:
+            insights.extend([
+                "Usar para destacar vantagens",
+                "Postar em horários de decisão",
+                "Comparar com concorrentes"
+            ])
+        elif 'agora' in nome_lower or 'imediato' in nome_lower:
+            insights.extend([
+                "Usar com urgência máxima",
+                "Postar em horários de ação",
+                "Criar senso de oportunidade"
+            ])
+        elif 'todos' in nome_lower or 'milhares' in nome_lower:
+            insights.extend([
+                "Usar para criar prova social",
+                "Postar em horários de maior engajamento",
+                "Destacar popularidade"
+            ])
+        else:
+            # Insights baseados na categoria geral
+            if categoria == 'Esportes':
+                insights.extend([
+                    "Usar em dias de jogos importantes",
+                    "Postar antes de grandes partidas",
+                    "Aproveitar momentos de torcida"
+                ])
+            elif categoria == 'Filmes':
+                insights.extend([
+                    "Usar em lançamentos de filmes",
+                    "Aproveitar temporadas de premiações",
+                    "Postar em fins de semana"
+                ])
+            elif categoria == 'Séries':
+                insights.extend([
+                    "Usar em lançamentos de temporadas",
+                    "Aproveitar hype de séries populares",
+                    "Postar em dias de maratona"
+                ])
+            elif categoria == 'Promoções':
+                insights.extend([
+                    "Usar com urgência e escassez",
+                    "Criar senso de oportunidade",
+                    "Postar em horários de maior engajamento"
+                ])
+            elif categoria == 'Datas Especiais':
+                insights.extend([
+                    "Usar 1-2 semanas antes da data",
+                    "Criar campanhas temáticas",
+                    "Aproveitar sentimento da data"
+                ])
+            else:
+                insights.extend([
+                    "Testar diferentes horários",
+                    "Monitorar engajamento",
+                    "Ajustar conforme feedback"
+                ])
         
-        # Insights gerais
-        insights.extend([
-            "Testar diferentes horários",
-            "Monitorar engajamento",
-            "Ajustar conforme feedback"
-        ])
+        # Adicionar insights baseados na temática
+        if tematica == 'Esportiva':
+            insights.append("Usar em dias de competições")
+        elif tematica == 'Entretenimento':
+            insights.append("Usar em fins de semana")
+        elif tematica == 'Promocional':
+            insights.append("Criar urgência e escassez")
+        elif tematica == 'Familiar':
+            insights.append("Usar em momentos familiares")
+        elif tematica == 'Tecnológica':
+            insights.append("Destacar inovação e facilidade")
+        elif tematica == 'Festiva':
+            insights.append("Aproveitar espírito de celebração")
+        elif tematica == 'Urgente':
+            insights.append("Usar com máxima urgência")
+        elif tematica == 'Premium':
+            insights.append("Destacar exclusividade")
+        elif tematica == 'Social':
+            insights.append("Usar prova social")
         
-        return "; ".join(insights[:5])  # Máximo 5 insights
+        return "; ".join(insights[:4])  # Máximo 4 insights específicos
     
     def listar_flyers(self):
         """Lista todos os flyers na pasta"""
