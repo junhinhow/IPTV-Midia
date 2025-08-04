@@ -29,8 +29,8 @@ def extrair_texto_imagem(caminho_arquivo):
         # Aplicar threshold adaptativo
         thresh = cv2.adaptiveThreshold(cinza, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 11, 2)
         
-        # Configurar OCR para português
-        config = '--oem 3 --psm 6 -l por'
+        # Configurar OCR para inglês (disponível por padrão)
+        config = '--oem 3 --psm 6 -l eng'
         
         # Extrair texto
         texto = pytesseract.image_to_string(thresh, config=config)
@@ -40,7 +40,8 @@ def extrair_texto_imagem(caminho_arquivo):
         
         print(f"📄 Texto encontrado:")
         for i, linha in enumerate(linhas, 1):
-            print(f"   {i}. {linha}")
+            if linha:  # Só mostra linhas não vazias
+                print(f"   {i}. {linha}")
         
         return texto.strip()
         
@@ -52,7 +53,7 @@ def main():
     pasta = Path(".")
     
     # Processar cada arquivo PNG
-    for arquivo in pasta.glob("*.png"):
+    for arquivo in sorted(pasta.glob("*.png")):
         texto = extrair_texto_imagem(arquivo)
         print("-" * 60)
 
