@@ -185,19 +185,20 @@ def limpar_texto_inteligente(texto):
 
 def testar_todas_bases_ocr():
     """Testa todas as bases de OCR disponíveis"""
-    arquivo_teste = "Pagas/Preenchidas/Divulgação/Organizado/01_Esportes/formula1/Formula 1 - Fórmula 1 - Pilotos - Corridas - Assine Agora - Mundo - Tirar o Fôlego.png"
+    # Usar um arquivo mais simples
+    arquivo_teste = "Pagas/Preenchidas/Divulgação/Organizado/01_Esportes/basquete/Basquete - MULTISERVIDORES ASSISTA EM QUALQUER DISPOSITIVO SMARTIV TVBOX NOTEBOOK CELULAR.png"
     
     if not os.path.exists(arquivo_teste):
         print(f"❌ Arquivo não encontrado: {arquivo_teste}")
         return
     
-    print("🏎️ TESTANDO TODAS AS BASES DE OCR")
+    print("🏀 TESTANDO TODAS AS BASES DE OCR")
     print("=" * 60)
     print(f"📁 Arquivo: {os.path.basename(arquivo_teste)}")
     print("=" * 60)
     
     # Caminho para tessdata local
-    tessdata_local = Path("Pagas/Preenchidas/Divulgação/Organizado/01_Esportes/formula1/tessdata")
+    tessdata_local = Path("Pagas/Preenchidas/Divulgação/Organizado/01_Esportes/basquete/tessdata")
     
     if not tessdata_local.exists():
         print(f"❌ Tessdata local não encontrado: {tessdata_local}")
