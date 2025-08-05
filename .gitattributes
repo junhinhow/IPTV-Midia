@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Configurações para nomes de arquivos longos
+* -text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+
+# Preservar nomes de arquivos
+* -text -diff
