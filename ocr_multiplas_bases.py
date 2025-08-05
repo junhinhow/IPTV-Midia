@@ -62,7 +62,7 @@ def extrair_texto_paddleocr(image_path):
         from paddleocr import PaddleOCR
         
         # Inicializar PaddleOCR
-        ocr = PaddleOCR(use_angle_cls=True, lang='pt')
+        ocr = PaddleOCR(use_textline_orientation=True, lang='pt')
         
         # Carregar imagem
         img = cv2.imread(str(image_path))
@@ -185,8 +185,8 @@ def limpar_texto_inteligente(texto):
 
 def testar_todas_bases_ocr():
     """Testa todas as bases de OCR disponíveis"""
-    # Usar um arquivo mais simples
-    arquivo_teste = "Pagas/Preenchidas/Divulgação/Organizado/01_Esportes/basquete/Basquete - MULTISERVIDORES ASSISTA EM QUALQUER DISPOSITIVO SMARTIV TVBOX NOTEBOOK CELULAR.png"
+    # Usar o arquivo copiado para a pasta raiz
+    arquivo_teste = "teste_ocr.png"
     
     if not os.path.exists(arquivo_teste):
         print(f"❌ Arquivo não encontrado: {arquivo_teste}")
