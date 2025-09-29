@@ -5,6 +5,6 @@
 *.jpeg binary
 *.gif binary
 *.bmp binary
-
 # Preservar nomes de arquivos
 * -text -diff
+*.rar filter=lfs diff=lfs merge=lfs -text
